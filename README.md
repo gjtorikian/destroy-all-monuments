@@ -1,4 +1,4 @@
-This is data taken from a "[Whose Heritage? Public Symbols of the Confederacy](https://www.splcenter.org/20160421/whose-heritage-public-symbols-confederacy)" report from April 21, 2016.
+This is data taken from the [SPLC](https://www.splcenter.org) report titled "[Whose Heritage? Public Symbols of the Confederacy](https://www.splcenter.org/20160421/whose-heritage-public-symbols-confederacy)" from April 21, 2016.
 
 I could not find a machine-readable format of the data online, so I:
 
