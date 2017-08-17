@@ -1,0 +1,305 @@
+---
+- :city: Anniston
+  :thing: Major John Pelham Monument
+  :type: Monument
+  :year: '1905'
+- :city: Ashville
+  :thing: Confederate Monument
+  :type: Monument/Courthouse
+  :year: '1923'
+- :city: Athens
+  :thing: Confederate Soldier Monument
+  :type: Monument/Courthouse
+  :year: '1909'
+- :city: Beauregard
+  :thing: Unincorporated Area Beauregard
+  :type: Municipality
+  :year: N/A
+- :city: Birmingham
+  :thing: Confederate Soldiers and Sailors Monument
+  :type: Monument
+  :year: '1905'
+- :city: Brewton
+  :thing: Jefferson Davis Community College
+  :type: School
+  :year: '1965'
+- :city: Butler
+  :thing: Confederate Monument
+  :type: Monument/Courthouse
+  :year: '1937'
+- :city: Carrollton
+  :thing: Confederate Memorial
+  :type: Monument/Courthouse
+  :year: '1927'
+- :city: Cedar Bluff
+  :thing: General N.B.Forrest Captured Colonel A.D Straight Monument
+  :type: Monument
+  :year: '1939'
+- :city: Centre
+  :thing: Confederate Memorial
+  :type: Monument/Courthouse
+  :year: '1988'
+- :city: Centreville
+  :thing: Confederate Monument
+  :type: Monument/Courthouse
+  :year: '1910'
+- :city: Clanton
+  :thing: Chilton County
+  :type: County
+  :year: '1868'
+- :city: Clanton
+  :thing: City of Clanton
+  :type: Municipality
+  :year: '1866'
+- :city: Dauphin Island
+  :thing: Beauregard Street
+  :type: Road/Street/Highway
+  :year: 'N/A'
+- :city: Decatur
+  :thing: Confederate Monument
+  :type: Monument/Courthouse
+  :year: '1908'
+- :city: Decatur
+  :thing: Wheeler Lake
+  :type: River/Creek/Lake
+  :year: '1936'
+- :city: Demopolis
+  :thing: Breastworks Confederate Memorial
+  :type: Monument
+  :year: '1941'
+- :city: Demopolis
+  :thing: Confederate Monument
+  :type: Monument
+  :year: '1910'
+- :city: Demopolis
+  :thing: Confederate Park
+  :type: Park
+  :year: '1910'
+- :city: Eufaula
+  :thing: Confederate Monument
+  :type: Monument
+  :year: '1904'
+- :city: Fair Hope
+  :thing: Jeff Davis Street
+  :type: Road/Street/Highway
+  :year: N/A
+- :city: Fayette
+  :thing: Confederate Monument
+  :type: Monument/Courthouse
+  :year: '1929'
+- :city: Florence
+  :thing: Confederate Monument
+  :type: Monument/Courthouse
+  :year: '1903'
+- :city: Florence
+  :thing: McFarland Park and Recreation Area
+  :type: Park
+  :year: N/A
+- :city: Fort Payne
+  :thing: Confederate Monument
+  :type: Monument
+  :year: '1913'
+- :city: Fort Rucker
+  :thing: Fort Rucker
+  :type: Military Base
+  :year: '1942'
+- :city: Gadsden
+  :thing: Emma Sansom and Nathan Bedford Forrest Monument
+  :type: Monument
+  :year: '1907'
+- :city: Gadsden
+  :thing: Turkey Town Monument
+  :type: Monument
+  :year: N/A
+- :city: Gardendale
+  :thing: Robert E.Lee Drive
+  :type: Road/Street/Highway
+  :year: N/A
+- :city: Greensboro
+  :thing: Confederate Monument
+  :type: Monument/Courthouse
+  :year: '1904'
+- :city: Greensboro
+  :thing: Hale County
+  :type: County
+  :year: '1867'
+- :city: Greenville
+  :thing: Butler County Confederate Memorial
+  :type: Monument
+  :year: '1903'
+- :city: Greenville
+  :thing: Confederate Park
+  :type: Park
+  :year: N/A
+- :city: Hamilton
+  :thing: Confederate Veterans Bicentennial Memorial
+  :type: Monument
+  :year: '1977'
+- :city: Hayneville
+  :thing: Confederate Monument
+  :type: Monument
+  :year: N/A
+- :city: Headland
+  :thing: Henry County Confederate
+  :type: Monument
+  :year: '1936'
+- :city: Heflin
+  :thing: Cleburne County
+  :type: County
+  :year: '1866'
+- :city: Hodges
+  :thing: Robert E.Lee Drive
+  :type: Road/Street/Highway
+  :year: N/A
+- :city: Hunstville
+  :thing: Lee High School
+  :type: School
+  :year: '1957'
+- :city: Huntsville
+  :thing: Confederate Veterans Memorial
+  :type: Monument/Courthouse
+  :year: '1905'
+- :city: Jacksonville
+  :thing: Confederate Monument
+  :type: Monument
+  :year: '1910'
+- :city: Jasper
+  :thing: Confederate Monument
+  :type: Monument/Courthouse
+  :year: '1907'
+- :city: Leeds
+  :thing: Robert E.Lee Street
+  :type: Road/Street/Highway
+  :year: N/A
+- :city: Livingston
+  :thing: Confederate Monument
+  :type: Monument/Courthouse
+  :year: '1909'
+- :city: Livingston
+  :thing: Forrest Drive
+  :type: Road/Street/Highway
+  :year: N/A
+- :city: Livingston
+  :thing: Hood Street
+  :type: Road/Street/Highway
+  :year: N/A
+- :city: Livingston
+  :thing: Jefferson Davis Drive
+  :type: Road/Street/Highway
+  :year: N/A
+- :city: Livingston
+  :thing: Lee Street
+  :type: Road/Street/Highway
+  :year: N/A
+- :city: Livingston
+  :thing: Longstreet Drive
+  :type: Road/Street/Highway
+  :year: N/A
+- :city: Livingston
+  :thing: Morgan Drive
+  :type: Road/Street/Highway
+  :year: N/A
+- :city: Livingston
+  :thing: Stonewall Street
+  :type: Road/Street/Highway
+  :year: N/A
+- :city: Marbury
+  :thing: Confederate Memorial Park
+  :type: Park
+  :year: N/A
+- :city: Mc Calla
+  :thing: Confederate Parkway
+  :type: Road/Street/Highway
+  :year: N/A
+- :city: Midway
+  :thing: Townof Midway Marker
+  :type: Monument
+  :year: '2010'
+- :city: Millbrook
+  :thing: Robert E.Lee Drive
+  :type: Road/Street/Highway
+  :year: N/A
+- :city: Millbrook
+  :thing: Robinson Springs Camp Confederate Moniment
+  :type: Monument
+  :year: '1913'
+- :city: Mobile
+  :thing: 10" Rifled Sea Coast Columbiad
+  :type: Monument
+  :year: '2004'
+- :city: Mobile
+  :thing: Admiral Raphael Semmes Statue
+  :type: Monument
+  :year: '2000'
+- :city: Mobile
+  :thing: Beauregard Street
+  :type: Road/Street/Highway
+  :year: N/A
+- :city: Mobile
+  :thing: Forrest Street
+  :type: Road/Street/Highway
+  :year: N/A
+- :city: Mobile
+  :thing: Johnston Street
+  :type: Road/Street/Highway
+  :year: N/A
+- :city: Mobile
+  :thing: Polk Street
+  :type: Road/Street/Highway
+  :year: N/A
+- :city: Mobile
+  :thing: Robert E.Lee Street
+  :type: Road/Street/Highway
+  :year: N/A
+- :city: Mobile
+  :thing: Van Dorn Street
+  :type: Road/Street/Highway
+  :year: N/A
+- :city: Monroeville
+  :thing: Confederate Circle
+  :type: Road/Street/Highway
+  :year: N/A
+- :city: Monroeville
+  :thing: Robert Lee Street
+  :type: Road/Street/Highway
+  :year: N/A
+- :city: Monroeville
+  :thing: Stonewall Lane
+  :type: Road/Street/Highway
+  :year: N/A
+- :city: Montgomery
+  :thing: Alabama Coatof Arms
+  :type: Flag
+  :year: '1923'
+- :city: Montgomery
+  :thing: Confederate Memorial Day
+  :type: Holiday
+  :year: N/A
+- :city: Montgomery
+  :thing: Confederate Monument
+  :type: Monument/Gov.Property
+  :year: '1898'
+- :city: Montgomery
+  :thing: Dexter Avenue Monument
+  :type: Monument
+  :year: '1942'
+- :city: Montgomery
+  :thing: Jefferson Davis’Birthday
+  :type: Holiday(Occurson
+  :year: N/A
+- :city: Montgomery
+  :thing: John Allan Wyeth—
+  :type: Monument
+  :year: N/A
+- :city: Montgomery
+  :thing: Robert E.Lee Day
+  :type: Holiday
+  :year: N/A
+- :city: Montgomery
+  :thing: Robert E.Lee Statue
+  :type: Monument
+  :year: '1908'
+- :city: Montgomery
+  :thing: Sonsof Confederate Veterans
+  :type: Commemorative
+  :year: N/A
