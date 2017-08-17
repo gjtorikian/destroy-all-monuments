@@ -1,0 +1,892 @@
+---
+-
+  city: Abilene
+  monument: Jackson Elementary School
+  type: School
+  year: 1952
+-
+  city: Abilene
+  monument: Johnston Elementary School
+  type: School
+  year: N/A
+-
+  city: Abilene
+  monument: Lee Elementary School
+  type: School
+  year: 1961
+-
+  city: Alpine
+  monument: General Lawrence 'Sul' Ross
+  type: Monument
+  year: 1963
+-
+  city: Alpine
+  monument: Confederate Colonel Henry P. Brewster
+  type: Monument/Courthouse
+  year: 1963
+-
+  city: Amarillo
+  monument: Confederate Monument
+  type: Monument
+  year: 1931
+-
+  city: Amarillo
+  monument: Lee Elementary School
+  type: School
+  year: N/A
+-
+  city: Aspermont
+  monument: Stonewall County
+  type: County
+  year: 1888
+-
+  city: Aspermont
+  monument: County Named for Confederate Hero Stonewall Jackson
+  type: Monument/Courthouse
+  year: 1963
+-
+  city: Athens
+  monument: Henderson County Confederate Momument
+  type: Monument
+  year: 1964
+-
+  city: Austin
+  monument: Confederate Heroes Day (January 19, state observed; skeleton crew required
+  type: Holiday
+  year: N/A
+-
+  city: Austin
+  monument: Albert Sidney Johnston Statue
+  type: Monument/Gov.Property
+  year: 1932
+-
+  city: Austin
+  monument: Confederate Soldiers Monument
+  type: Monument/Gov.Property
+  year: 1903
+-
+  city: Austin
+  monument: Hood's Texas Brigade Monument
+  type: Monument/Gov.Property
+  year: 1910
+-
+  city: Austin
+  monument: John H. Reagan Statue
+  type: Monument/Gov.Property
+  year: 1932
+-
+  city: Austin
+  monument: Robert E. Lee Statue
+  type: Monument/Gov.Property
+  year: 1932
+-
+  city: Austin
+  monument: Terry's Texas Rangers Monument
+  type: Monument/Gov.Property
+  year: 1907
+-
+  city: Austin
+  monument: Jeff Davis Avenue
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Austin
+  monument: Robert E. Lee Road
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Austin
+  monument: John H. Reagan High School
+  type: School
+  year: 1965
+-
+  city: Austin
+  monument: Lee Elementary School
+  type: School
+  year: 1939
+-
+  city: Bastrop
+  monument: Home Town of Texas Confederate Major Joseph D. Sayers
+  type: Monument/Courthouse
+  year: 1963
+-
+  city: Bay City
+  monument: Confederate Monument
+  type: Monument/Courthouse
+  year: 1913-1993
+-
+  city: Baytown
+  monument: Lee College
+  type: School
+  year: 1934
+-
+  city: Baytown
+  monument: Lee High School
+  type: School
+  year: 1928
+-
+  city: Beaumont
+  monument: Our Confederate Soldiers
+  type: Monument
+  year: 1912
+-
+  city: Belton
+  monument: Confederate Monument
+  type: Monument/Courthouse
+  year: 1916
+-
+  city: Big Lake
+  monument: Reagan County
+  type: County
+  year: 1903
+-
+  city: Bonham
+  monument: Confederate Monument
+  type: Monument/Courthouse
+  year: 1905 - 1993
+-
+  city: Brownfield
+  monument: Terry County
+  type: County
+  year: 1904
+-
+  city: Canadian
+  monument: Hemphill County
+  type: County
+  year: 1877
+-
+  city: Canyon
+  monument: Randall County
+  type: County
+  year: 1889
+-
+  city: Clarendon
+  monument: Donley County
+  type: County
+  year: 1882
+-
+  city: Clarksville
+  monument: Confederate Soldier
+  type: Monument
+  year: 1912
+-
+  city: Cleburne
+  monument: Johnson County
+  type: County
+  year: 1867
+-
+  city: Cleburne
+  monument: Cleburne  Monument
+  type: Monument
+  year: 2010
+-
+  city: Cleburne
+  monument: City Named for Confederate General Patrick Cleburne
+  type: Monument/Courthouse
+  year: 1964
+-
+  city: Cleburne
+  monument: Confederate Monument
+  type: Monument/Courthouse
+  year: 1917
+-
+  city: Cleburne
+  monument: City of Cleburne
+  type: Municipality
+  year: 1871
+-
+  city: Coleman
+  monument: Hometown of Texas Confederate Colonel James E. McCord
+  type: Monument
+  year: 1963
+-
+  city: Conroe
+  monument: Beauregard Drive
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Conroe
+  monument: Jubal Early Lane
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Conroe
+  monument: Stonewall Jackson Drive
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Corsicana
+  monument: A Call to Arms
+  type: Monument/Courthouse
+  year: 1909
+-
+  city: Crowell
+  monument: Foard County
+  type: County
+  year: 1891
+-
+  city: Cuero
+  monument: General August C. Buchel Monument
+  type: Monument/Courthouse
+  year: 1963
+-
+  city: Dallas
+  monument: General Robert E. Lee and Confederate Soldier Statue
+  type: Monument
+  year: 1936
+-
+  city: Dallas
+  monument: Robert E. Lee Park
+  type: Park
+  year: N/A
+-
+  city: Dallas
+  monument: Albert Sidney Johnston Elementary School
+  type: School
+  year: N/A
+-
+  city: Dallas
+  monument: John H. Reagan Elementary School
+  type: School
+  year: N/A
+-
+  city: Dallas
+  monument: Robert E. Lee Elementary School
+  type: School
+  year: N/A
+-
+  city: Dallas
+  monument: Stonewall Jackson Elementary School
+  type: School
+  year: 1939
+-
+  city: Denton
+  monument: Confederate Monument
+  type: Monument/Courthouse
+  year: 1918
+-
+  city: Denton
+  monument: Lee Elementary School
+  type: School
+  year: 1988
+-
+  city: Eagle Pass
+  monument: Robert E. Lee Elementary School
+  type: School
+  year: N/A
+-
+  city: Edinburg
+  monument: Lee Elementary School
+  type: School
+  year: N/A
+-
+  city: El Paso
+  monument: Hometown of Texas Confederate Captain James W. Magoffin
+  type: Monument
+  year: 1964
+-
+  city: El Paso
+  monument: Major Simeon Hart
+  type: Monument
+  year: 1964
+-
+  city: El Paso
+  monument: Robert E. Lee Road
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: El Paso
+  monument: Lee Elementary School
+  type: School
+  year: N/A
+-
+  city: Farmersville
+  monument: Confederate Soldier
+  type: Monument
+  year: 1917
+-
+  city: Fort Davis
+  monument: Jeff Davis County
+  type: County
+  year: 1887
+-
+  city: Fort Davis
+  monument: City of Fort Davis
+  type: Municipality
+  year: N/A
+-
+  city: Fort Davis
+  monument: Fort Davis AEC School
+  type: School
+  year: N/A
+-
+  city: Fort Davis
+  monument: Fort Davis High School
+  type: School
+  year: N/A
+-
+  city: Fort Hood
+  monument: Fort Hood
+  type: Military Base
+  year: 1942
+-
+  city: Fort Worth
+  monument: Confederate Monument
+  type: Monument/Courthouse
+  year: 1953
+-
+  city: Gainesville
+  monument: Confederate Heroes
+  type: Monument
+  year: 1908
+-
+  city: Gainesville
+  monument: Confederate Soldier Monument
+  type: Monument/Courthouse
+  year: 1911
+-
+  city: Gainesville
+  monument: Robert E. Lee Intermediate School
+  type: School
+  year: N/A
+-
+  city: Galveston
+  monument: Dignified Resignation Monument
+  type: Monument/Courthouse
+  year: 1912
+-
+  city: Georgetown
+  monument: Confederate Monument
+  type: Monument/Courthouse
+  year: 1916
+-
+  city: Giddings
+  monument: Lee County
+  type: County
+  year: 1874
+-
+  city: Goldthwaite
+  monument: Confederate Monument
+  type: Monument/Courthouse
+  year: 1915
+-
+  city: Gonzales
+  monument: Confederate Monument
+  type: Monument/Courthouse
+  year: 1909
+-
+  city: Graham
+  monument: Confederate Memorial
+  type: Monument/Courthouse
+  year: 1916
+-
+  city: Granbury
+  monument: Hood County
+  type: County
+  year: 1866
+-
+  city: Granbury
+  monument: City of Granbury
+  type: Municipality
+  year: 1887
+-
+  city: Grand Prairie
+  monument: Robert E. Lee Elementary School
+  type: School
+  year: 1948
+-
+  city: Greenville
+  monument: Confederate Soldier
+  type: Monument
+  year: 1926
+-
+  city: Hamilton
+  monument: Stonewall Jackson Road
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Hemphill
+  monument: Confederate Street
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Hemphill
+  monument: Stonewall Street
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Hillsboro
+  monument: Confederate Soldier
+  type: Monument/Courthouse
+  year: 1925
+-
+  city: Holliday
+  monument: Stonewall Jackson Camp 249
+  type: Monument
+  year: 1999
+-
+  city: Holliday
+  monument: Stonewall Jackson Campground
+  type: Park
+  year: N/A
+-
+  city: Holliday
+  monument: Stonewall Road
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Houston
+  monument: Robert E. Lee Road
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Houston
+  monument: Robert Lee Road
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Houston
+  monument: Davis High School
+  type: School
+  year: 1926
+-
+  city: Houston
+  monument: Dowling Middle School
+  type: School
+  year: 1968
+-
+  city: Houston
+  monument: Jackson Middle School
+  type: School
+  year: 1925
+-
+  city: Houston
+  monument: John H. Reagan High School
+  type: School
+  year: 1926
+-
+  city: Houston
+  monument: Johnston Middle School
+  type: School
+  year: 1959
+-
+  city: Houston
+  monument: Lee High School
+  type: School
+  year: 1962
+-
+  city: Hunt
+  monument: Robert E. Lee Road
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Huntsville
+  monument: Walker County Civil War Memorial
+  type: Monument/Courthouse
+  year: 1956
+-
+  city: Jacksonville
+  monument: Jeff Davis Street
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Jefferson
+  monument: Confederate Memorial
+  type: Monument/Courthouse
+  year: 1907
+-
+  city: Jefferson
+  monument: Confederate Soldier Statue
+  type: Monument/Courthouse
+  year: 1907
+-
+  city: Kaufman
+  monument: Confederate Monument
+  type: Monument/Courthouse
+  year: 1911 - 1955
+-
+  city: Kermit
+  monument: Winkler County
+  type: County
+  year: 1910
+-
+  city: Kermit
+  monument: Colonel C.M. Winkler
+  type: Monument
+  year: 1963
+-
+  city: Kermit
+  monument: East Winkler Street
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Lakeside
+  monument: Confederate Park Road
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Lancaster
+  monument: Site of Confederate Arms Factory
+  type: Monument/Gov.Property
+  year: 1936
+-
+  city: League City
+  monument: Jeb Stuart Drive
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Levelland
+  monument: Robert Lee Street
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Liberty
+  monument: Confederate Street
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Livingston
+  monument: Robert E. Lee Road
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Llano
+  monument: Confederate Soldier Monument
+  type: Monument/Courthouse
+  year: 1916
+-
+  city: Longview
+  monument: Gregg County
+  type: County
+  year: 1873
+-
+  city: Longview
+  monument: Confederate Heroes
+  type: Monument/Courthouse
+  year: 1911
+-
+  city: Marshall
+  monument: Confederate Capitol of Missouri
+  type: Monument
+  year: 1963
+-
+  city: Marshall
+  monument: Confederate Monument
+  type: Monument
+  year: 1906
+-
+  city: Marshall
+  monument: Home of Last Texas Confederate Governor Pendleton Murrah
+  type: Monument
+  year: 1963
+-
+  city: Marshall
+  monument: Home Town of Texas Confederate General Elkanah Greer
+  type: Monument/Courthouse
+  year: 1963
+-
+  city: Marshall
+  monument: Jeff Davis Street
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Marshall
+  monument: Stonewall Drive
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Marshall
+  monument: Robert E. Lee Elementary School
+  type: School
+  year: N/A
+-
+  city: Memphis
+  monument: WWI and Confederate Soldier Monument
+  type: Monument/Courthouse
+  year: 1924
+-
+  city: Miami
+  monument: Roberts County
+  type: County
+  year: 1889
+-
+  city: Miami
+  monument: Colonel O.M. Roberts
+  type: Monument
+  year: 1963
+-
+  city: Midland
+  monument: Lee Freshman High School
+  type: School
+  year: 1961
+-
+  city: Midland
+  monument: Lee High School
+  type: School
+  year: 1961
+-
+  city: Missouri City
+  monument: Beauregard Court
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Missouri City
+  monument: Bedford Forrest Drive
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Missouri City
+  monument: Breckinridge  Court
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Missouri City
+  monument: Confederate Drive
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Missouri City
+  monument: Pickett Place
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Mount Pleasant
+  monument: Confederate Soldier Statue
+  type: Monument/Courthouse
+  year: 1911
+-
+  city: Odessa
+  monument: Ector County
+  type: County
+  year: 1891
+-
+  city: Palestine
+  monument: John H. Reagan Statue
+  type: Monument
+  year: 1911
+-
+  city: Palestine
+  monument: John H. Reagan Park
+  type: Park
+  year: N/A
+-
+  city: Pampa
+  monument: Gray County
+  type: County
+  year: 1902
+-
+  city: Paris
+  monument: Confederate Monument (Jefferson Davis, Robert E. Lee, Albert Sidney Johnston,
+    Stonewall Jackson)
+  type: Monument/Courthouse
+  year: 1903
+-
+  city: Pecos
+  monument: Reeves County
+  type: County
+  year: 1884
+-
+  city: Perryton
+  monument: Ochiltree County
+  type: County
+  year: 1889
+-
+  city: Port Arthur
+  monument: Lee Elementary School
+  type: School
+  year: 1959
+-
+  city: Rankin
+  monument: Upton County
+  type: County
+  year: 1910
+-
+  city: Richmond
+  monument: Jeb Stuart Drive
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Richmond
+  monument: Jeff Davis Drive
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Richmond
+  monument: Stonewall Drive
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Ridgley
+  monument: Bedford Forrest Lane
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Robert Lee
+  monument: City of Robert Lee
+  type: Municipality
+  year: N/A
+-
+  city: Robert Lee
+  monument: Robert Lee Elementary School
+  type: School
+  year: N/A
+-
+  city: Robert Lee
+  monument: Robert Lee High School
+  type: School
+  year: N/A
+-
+  city: Roma
+  monument: Robert Lee Avenue
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Rusk
+  monument: Confederate Memorial
+  type: Monument/Courthouse
+  year: 1907
+-
+  city: San Angelo
+  monument: Tom Green County
+  type: County
+  year: 1875
+-
+  city: San Angelo
+  monument: Lee Middle School
+  type: School
+  year: 1949
+-
+  city: San Antonio
+  monument: Confederate Monument
+  type: Monument
+  year: 1900
+-
+  city: San Antonio
+  monument: Lest We Forget Our Dead
+  type: Monument
+  year: 1899
+-
+  city: San Antonio
+  monument: Beauregard Street
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: San Antonio
+  monument: Robert E. Lee Street
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: San Antonio
+  monument: Lee High School
+  type: School
+  year: 1958
+-
+  city: Sanderson
+  monument: Terrell County
+  type: County
+  year: 1905
+-
+  city: Sherman
+  monument: Confederate Soldier
+  type: Monument
+  year: 1897
+-
+  city: Snyder
+  monument: Scurry County
+  type: County
+  year: 1884
+-
+  city: Snyder
+  monument: Texas Confederate William R. Scurry Monument
+  type: Monument/Courthouse
+  year: 1963
+-
+  city: Sonora
+  monument: Sutton County
+  type: County
+  year: 1890
+-
+  city: Sterling City
+  monument: Robert Lee Highway
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Stonewall
+  monument: City of Stonewall
+  type: Municipality
+  year: N/A
+-
+  city: Stonewall
+  monument: Stonewall Elementary School
+  type: School
+  year: N/A
+-
+  city: Sweetwater
+  monument: Robert Lee Street
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Texarkana
+  monument: Confederate Mothers Monument
+  type: Monument
+  year: 1918
+-
+  city: Tomball
+  monument: Confederate Powder Mill Marker
+  type: Monument
+  year: 1966
+-
+  city: Tyler
+  monument: Jeb Stuart Drive
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Tyler
+  monument: Jeff Davis Drive
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Tyler
+  monument: Hubbard Middle School
+  type: School
+  year: 1964
+-
+  city: Tyler
+  monument: Robert E. Lee High School
+  type: School
+  year: 1958
+-
+  city: Vega
+  monument: Oldham County
+  type: County
+  year: 1881
+-
+  city: Vernon
+  monument: Confederate Monument
+  type: Monument/Courthouse
+  year: 1916
+-
+  city: Victoria
+  monument: Confederate Flag
+  type: Flag
+  year: 1912
+-
+  city: Victoria
+  monument: Confederate Monument
+  type: Monument
+  year: 1912
+-
+  city: Victoria
+  monument: Robert E. Lee Road
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Weatherford
+  monument: Confederate Monument
+  type: Monument/Courthouse
+  year: 1915
+-
+  city: Multiple Locations
+  monument: Jefferson Davis Highway
+  type: Road/Street/Highway
+  year: N/A

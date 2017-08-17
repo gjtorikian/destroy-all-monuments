@@ -1,0 +1,456 @@
+---
+-
+  city: Alexandria
+  monument: Rapides Parish Confederate Monument
+  type: Monument/Courthouse
+  year: 1914
+-
+  city: Baton Rouge
+  monument: Edmund Kirby Smith Hall at Louisiana State University
+  type: Building
+  year: 1965 - 2011
+-
+  city: Baton Rouge
+  monument: Sons of Confederate Veterans Commemorative License Plate
+  type: Commemorative License Plate
+  year: N/A
+-
+  city: Baton Rouge
+  monument: Confederate Memorial Day (June 3, not state observed; listed in statutes)
+  type: Holiday
+  year: N/A
+-
+  city: Baton Rouge
+  monument: Robert E. Lee Day (January 19, not state observed; listed in statutes)
+  type: Holiday
+  year: N/A
+-
+  city: Baton Rouge
+  monument: Breckinridge's March Monument
+  type: Monument
+  year: 1931
+-
+  city: Baton Rouge
+  monument: Confederate Monument
+  type: Monument
+  year: 1886
+-
+  city: Baton Rouge
+  monument: Henry Watkins Allen Gravesite
+  type: Monument
+  year: 1885
+-
+  city: Baton Rouge
+  monument: Jefferson Davis Highway Monument
+  type: Monument
+  year: N/A
+-
+  city: Baton Rouge
+  monument: Governor Francis T. Nichols Statue
+  type: Monument/Gov.Property
+  year: 1934
+-
+  city: Baton Rouge
+  monument: Governor Henry Watkins Allen Statue
+  type: Monument/Gov.Property
+  year: 1934
+-
+  city: Baton Rouge
+  monument: Confederate Avenue
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Baton Rouge
+  monument: Jeff Davis Street
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Baton Rouge
+  monument: Lee Drive
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Baton Rouge
+  monument: Robert E. Lee High School
+  type: School
+  year: 1960
+-
+  city: Bell City
+  monument: Jeff Davis Road
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Belle Chasse
+  monument: Judah P. Benjamin Monument
+  type: Monument
+  year: 1968
+-
+  city: Benton
+  monument: Confederate Soldier Monument
+  type: Monument/Courthouse
+  year: 1910
+-
+  city: Bogalusa
+  monument: Jefferson Davis Drive
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Bossier City
+  monument: Beauregard Place
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Bossier City
+  monument: General Bragg Drive
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Bossier City
+  monument: General Ewell Drive
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Bossier City
+  monument: General Polk Drive
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Bossier City
+  monument: General Sterling Price Place
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Bossier City
+  monument: Jeb Stuart Place
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Bossier City
+  monument: Kirby Smith Drive
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Bossier City
+  monument: Longstreet Place
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Bossier City
+  monument: Robert E. Lee Boulevard
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Bossier City
+  monument: Robert E. Lee Street
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Chalmette
+  monument: Beauregard Street
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Clinton
+  monument: Confederate Monument
+  type: Monument
+  year: 1909
+-
+  city: De Ridder
+  monument: Beauregard Parish
+  type: County
+  year: 1913
+-
+  city: De Ridder
+  monument: Beauregard Alternative School
+  type: School
+  year: N/A
+-
+  city: De Ridder
+  monument: East Beauregard Elementary School
+  type: School
+  year: 2001
+-
+  city: De Ridder
+  monument: East Beauregard High School
+  type: School
+  year: 1962
+-
+  city: Donaldsonville
+  monument: Fort Butler Memorial
+  type: Monument
+  year: 1999
+-
+  city: Fort Polk
+  monument: Fort Polk
+  type: Military Base
+  year: 1941
+-
+  city: Franklin
+  monument: Confederate Monument
+  type: Monument/Courthouse
+  year: 1913
+-
+  city: Gretna
+  monument: Jefferson Davis Highway Marker
+  type: Monument
+  year: N/A
+-
+  city: Gretna
+  monument: Beauregard Drive
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Homer
+  monument: Confederate Monument
+  type: Monument/Courthouse
+  year: 1940
+-
+  city: Houma
+  monument: Jefferson Davis Street
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Jennings
+  monument: Jefferson Davis Parish
+  type: County
+  year: 1912
+-
+  city: Johnson Bayou
+  monument: Robert E. Lee Statue
+  type: Monument
+  year: 1984
+-
+  city: Lafayette
+  monument: Brigadier General J.J. Alfred A. Mouton Statue
+  type: Monument/Gov.Property
+  year: 1922
+-
+  city: Lafayette
+  monument: Jeff Davis Drive
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Lake Charles
+  monument: South's Defenders Monument
+  type: Monument/Courthouse
+  year: 1915 -  1955
+-
+  city: Lake Charles
+  monument: Beauregard Avenue
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Lake Charles
+  monument: Beauregard Drive
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Lake Charles
+  monument: Beauregard Street
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Longstreet
+  monument: Village of Longstreet
+  type: Municipality
+  year: N/A
+-
+  city: Longville
+  monument: South Beauregard Elementary School
+  type: School
+  year: N/A
+-
+  city: Longville
+  monument: South Beauregard High School
+  type: School
+  year: N/A
+-
+  city: Marthaville
+  monument: Unknown Confederate Soldier Monument
+  type: Monument
+  year: 1970
+-
+  city: Marthaville
+  monument: Rebel State Historic Site
+  type: Park
+  year: 1962
+-
+  city: Merryville
+  monument: Rober E. Lee Road
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Minden
+  monument: Confederate Monument
+  type: Monument
+  year: 1933
+-
+  city: Monroe
+  monument: Jefferson Davis Drive
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Monroe
+  monument: Robert E. Lee Junior High School
+  type: School
+  year: N/A
+-
+  city: New Orleans
+  monument: Brigadier General Albert Pike Bust
+  type: Monument
+  year: 1957
+-
+  city: New Orleans
+  monument: Father Abram Ryan Monument
+  type: Monument
+  year: 1950
+-
+  city: New Orleans
+  monument: Home Where Jefferson Davis Died
+  type: Monument
+  year: 1930
+-
+  city: New Orleans
+  monument: Jefferson Davis Monument
+  type: Monument
+  year: 1911
+-
+  city: New Orleans
+  monument: P.G.T. Beauregard Statue
+  type: Monument
+  year: 1913
+-
+  city: New Orleans
+  monument: Robert E. Lee Monument
+  type: Monument
+  year: 1884
+-
+  city: New Orleans
+  monument: Beauregard Drive
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: New Orleans
+  monument: Governor Nicholls Street
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: New Orleans
+  monument: Jefferson Davis Parkway
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: New Orleans
+  monument: Lee Circle
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: New Orleans
+  monument: Polk Street
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: New Orleans
+  monument: Robert E. Lee Boulevard
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: New Orleans
+  monument: Slidell Street
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Old  Pleasant Hill
+  monument: Confederate Memorial
+  type: Monument
+  year: N/A
+-
+  city: Old  Pleasant Hill
+  monument: Lieutenant General Richard Taylor Monument
+  type: Monument
+  year: 1994
+-
+  city: Old  Pleasant Hill
+  monument: Red River Campaign
+  type: Monument
+  year: 1994
+-
+  city: Opelousas
+  monument: Confederate Monument
+  type: Monument/Courthouse
+  year: 1920
+-
+  city: Pineville
+  monument: Camp Beauregard
+  type: Military Base
+  year: 1917
+-
+  city: Pineville
+  monument: Jefferson Davis Drive
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Pineville
+  monument: Longstreet Drive
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Plaquemine
+  monument: Confederate Memorial
+  type: Monument
+  year: 1914
+-
+  city: Port Allen
+  monument: Henry Watkins Allen Statue
+  type: Monument/Courthouse
+  year: 1962
+-
+  city: Rayne
+  monument: Jeff Davis Avenue
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Shreveport
+  monument: Fort Humbug Confederate Memorial
+  type: Monument
+  year: 1927
+-
+  city: Shreveport
+  monument: Confederate Monument
+  type: Monument/Courthouse
+  year: 1906
+-
+  city: St. Francisville
+  monument: Confederate Monument
+  type: Monument/Courthouse
+  year: 1903
+-
+  city: Stonewall
+  monument: City of Stonewall
+  type: Municipality
+  year: N/A
+-
+  city: Tallulah
+  monument: Confederate Monument
+  type: Monument/Courthouse
+  year: 1912
+-
+  city: Thibodaux
+  monument: P.G.T. Beauregard Hall at Nicholls State University
+  type: Building
+  year: 1961 - 2010
+-
+  city: Winnfield
+  monument: Confederate Monument
+  type: Monument/Courthouse
+  year: 1926
+-
+  city: Zachary
+  monument: Port Hudson Confederate Monument
+  type: Monument
+  year: 1930
+-
+  city: Multiple Locations
+  monument: Jefferson Davis Highway
+  type: Road/Street/Highway
+  year: N/A

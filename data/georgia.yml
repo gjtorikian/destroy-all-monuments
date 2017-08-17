@@ -1,0 +1,871 @@
+---
+-
+  city: Abbeville
+  monument: Confederate Memorial
+  type: Monument
+  year: 1909
+-
+  city: Adel
+  monument: Cook County
+  type: County
+  year: 1918
+-
+  city: Alamo
+  monument: Wheeler County
+  type: County
+  year: 1912
+-
+  city: Americus
+  monument: Confederate Monument
+  type: Monument
+  year: 1900
+-
+  city: Andersonville
+  monument: Robert E. Lee Street
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Athens
+  monument: Candler Hall at the University of Georgia
+  type: Building
+  year: 1901
+-
+  city: Athens
+  monument: Joseph E. Brown Hall at the University of Georgia
+  type: Building
+  year: 1932
+-
+  city: Atlanta
+  monument: Sons of Confederate Veterans Commemorative License Plate
+  type: Commemorative License Plate
+  year: N/A
+-
+  city: Atlanta
+  monument: Brigadier General Alfred Iverson Jr.
+  type: Monument
+  year: N/A
+-
+  city: Atlanta
+  monument: Eternal Flame of the Confederacy
+  type: Monument
+  year: 1939
+-
+  city: Atlanta
+  monument: John B. Gordon Statue
+  type: Monument/Gov.Property
+  year: 1907
+-
+  city: Atlanta
+  monument: Joseph E. Brown Middle School
+  type: School
+  year: 1924
+-
+  city: Augusta
+  monument: Augusta Confederate Monument
+  type: Monument
+  year: 1878
+-
+  city: Augusta
+  monument: Wheeler Road
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Bainbridge
+  monument: Confederate Monument
+  type: Monument
+  year: 1936
+-
+  city: Barnesville
+  monument: Lamar County
+  type: County
+  year: 1955
+-
+  city: Blakely
+  monument: Confederate Flagpole
+  type: Monument/Courthouse
+  year: 1861
+-
+  city: Brunswick
+  monument: Glynn County Confederate Monument
+  type: Monument
+  year: 1902
+-
+  city: Brunswick
+  monument: General Robert E. Lee Road
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Buford
+  monument: General Lee Way
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Butler
+  monument: Taylor County Confederate Monument
+  type: Monument/Courthouse
+  year: 1911
+-
+  city: Cairo
+  monument: Confederate Memorial
+  type: Flag/Courthouse
+  year: N/A
+-
+  city: Calhoun
+  monument: Calhoun Veterans Monument
+  type: Monument
+  year: 1927
+-
+  city: Canton
+  monument: Confederate Memorial Arch
+  type: Monument
+  year: 1923
+-
+  city: Carnesville
+  monument: Franklin County Confederate Monument
+  type: Monument/Courthouse
+  year: 1910
+-
+  city: Carrollton
+  monument: Confederate Monument
+  type: Monument/Courthouse
+  year: 1910
+-
+  city: Cartersville
+  monument: Bartow County
+  type: County
+  year: 1861
+-
+  city: Cartersville
+  monument: Bartow County Confederate Monument
+  type: Monument
+  year: 1908
+-
+  city: Cedartown
+  monument: Polk County Confederate Monument
+  type: Monument/Courthouse
+  year: 1906
+-
+  city: Clayton
+  monument: Confederate Flag
+  type: Flag/Courthouse
+  year: N/A
+-
+  city: Cochran
+  monument: Bleckley County
+  type: County
+  year: 1912
+-
+  city: Cochran
+  monument: Bleckley County Confederate Monument
+  type: Monument
+  year: 1910
+-
+  city: Columbus
+  monument: Muscogee County Confederate Monument
+  type: Monument
+  year: 1879
+-
+  city: Columbus
+  monument: Tyler Home — Ladies Aid Society
+  type: Monument
+  year: 1936
+-
+  city: Columbus
+  monument: Robert E. Lee Drive
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Conyers
+  monument: Confederate Monument
+  type: Monument/Courthouse
+  year: 1913
+-
+  city: Cordele
+  monument: Crisp County Confederate Monument
+  type: Monument
+  year: 1911
+-
+  city: Covington
+  monument: Confederate War Memorial
+  type: Monument/Courthouse
+  year: 1906
+-
+  city: Crawfordville
+  monument: Confederate Monument
+  type: Monument/Courthouse
+  year: 1898
+-
+  city: Cusseta
+  monument: Confederate Veterans Monument
+  type: Monument/Courthouse
+  year: N/A
+-
+  city: Cuthbert
+  monument: Randolph County Confederate Monument
+  type: Monument
+  year: 1910
+-
+  city: Dallas
+  monument: Confederate Avenue
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Dalton
+  monument: General Johnston Headquarters
+  type: Monument
+  year: N/A
+-
+  city: Douglas
+  monument: Confederate Soldier
+  type: Monument
+  year: 1911
+-
+  city: Douglasville
+  monument: Confederate War Memorial
+  type: Monument/Courthouse
+  year: 1914
+-
+  city: Dublin
+  monument: Laurens County Confederate Monument
+  type: Monument/Courthouse
+  year: 1912
+-
+  city: Eastman
+  monument: Confederate Monument of Eastman
+  type: Monument/Courthouse
+  year: 1910
+-
+  city: Eastman
+  monument: Jefferson Davis Memorial Road
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Eatonton
+  monument: Eatonton Confederate Monument
+  type: Monument
+  year: 1908
+-
+  city: Eatonton
+  monument: Birthplace of Lucius Quintus Cincinnatus Lamar
+  type: Monument/Courthouse
+  year: 1936
+-
+  city: Elberton
+  monument: Elbert County Confederate Monument
+  type: Monument
+  year: 1898
+-
+  city: Ellaville
+  monument: Schley County Confederate Monument
+  type: Monument/Courthouse
+  year: 1910
+-
+  city: Fayetteville
+  monument: Jeff Davis Drive
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Fitzgerald
+  monument: Ben Hill County
+  type: County
+  year: 1956
+-
+  city: Fitzgerald
+  monument: Jefferson Davis Monument
+  type: Monument
+  year: N/A
+-
+  city: Fitzgerald
+  monument: Jefferson Davis Memorial Historic Site
+  type: Park
+  year: N/A
+-
+  city: Fitzgerald
+  monument: Bragg Street
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Fitzgerald
+  monument: Gordon Street
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Fitzgerald
+  monument: Hill Street
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Fitzgerald
+  monument: Jackson Street
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Fitzgerald
+  monument: Jeff Davis Park Road
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Fitzgerald
+  monument: Lee Street
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Fitzgerald
+  monument: Logan Street
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Fitzgerald
+  monument: Longstreet Street
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Fitzgerald
+  monument: Thomas Street
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Forest Park
+  monument: Hood Avenue
+  type: Road/Street/Highway
+  year: 1957
+-
+  city: Forest Park
+  monument: Wheeler Drive
+  type: Road/Street/Highway
+  year: 1957
+-
+  city: Forsyth
+  monument: Confederate Monument
+  type: Monument/Courthouse
+  year: 1907
+-
+  city: Fort Benning
+  monument: Fort Benning
+  type: Military Base
+  year: 1918
+-
+  city: Fort Gordon
+  monument: Fort Gordon
+  type: Military Base
+  year: 1917
+-
+  city: Fort Oglethorpe
+  monument: Forrest Road
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Fort Oglethorpe
+  monument: Polk Circle
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Fort Oglethorpe
+  monument: Robert E. Lee Street
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Fort Oglethorpe
+  monument: Shelby Street
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Franklin
+  monument: Heard County Confederate Monument
+  type: Monument
+  year: 1999
+-
+  city: Franklin
+  monument: Jeff Davis Road
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Gainesville
+  monument: Longstreet Bridge
+  type: Bridge
+  year: 1957
+-
+  city: Gainesville
+  monument: Hall County Confederate Monument
+  type: Monument
+  year: 1909
+-
+  city: Greensboro
+  monument: Greene County Confederate Monument
+  type: Monument/Courthouse
+  year: 1898
+-
+  city: Greensboro
+  monument: Jefferson Davis Road
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Griffin
+  monument: Confederate Monument
+  type: Monument
+  year: 1909
+-
+  city: Hartwell
+  monument: Confederate Monument
+  type: Monument/Courthouse
+  year: 1908
+-
+  city: Hawkinsville
+  monument: Confederate Monument
+  type: Monument/Courthouse
+  year: 1908
+-
+  city: Hazlehurst
+  monument: Jeff Davis County
+  type: County
+  year: 1905
+-
+  city: Hazlehurst
+  monument: Jefferson Davis Memorial
+  type: Monument
+  year: N/A
+-
+  city: Hazlehurst
+  monument: Jefferson Davis Bust
+  type: Monument/Courthouse
+  year: N/A
+-
+  city: Hazlehurst
+  monument: Jeff Davis Street
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Hazlehurst
+  monument: Jeff Davis Elementary School
+  type: School
+  year: N/A
+-
+  city: Hazlehurst
+  monument: Jeff Davis High School
+  type: School
+  year: N/A
+-
+  city: Hazlehurst
+  monument: Jeff Davis Middle School
+  type: School
+  year: N/A
+-
+  city: Hazlehurst
+  monument: Jeff Davis Primary School
+  type: School
+  year: N/A
+-
+  city: Hinesville
+  monument: Liberty County Confederate Monument
+  type: Monument/Courthouse
+  year: 1928
+-
+  city: Irwinville
+  monument: Jefferson Davis Memorial
+  type: Monument
+  year: 1935
+-
+  city: Jackson
+  monument: Monument to Butts County Confederate Soldiers
+  type: Monument/Courthouse
+  year: 1911
+-
+  city: Jefferson
+  monument: Jackson County Confederate Monument
+  type: Monument
+  year: 1911
+-
+  city: Jeffersonville
+  monument: Twiggs County Confederate Monument
+  type: Monument
+  year: 1911
+-
+  city: Jonesboro
+  monument: Jeb Stuart Drive
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Jonesboro
+  monument: Jeff Davis Drive
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Jonesboro
+  monument: Robert E. Lee Parkway
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Jonesboro
+  monument: Stonewall Jackson Drive
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Kingston
+  monument: First Confederate Hospital of the Civil War
+  type: Monument
+  year: N/A
+-
+  city: Lafayette
+  monument: Walker County Confederate Monument
+  type: Monument
+  year: 1909
+-
+  city: LaGrange
+  monument: Monument to the Confederate Soldier
+  type: Monument
+  year: 1902
+-
+  city: LaGrange
+  monument: Ben Hill Street
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Lawrenceville
+  monument: Lawrenceville Confederate Memorial
+  type: Monument/Courthouse
+  year: 1990
+-
+  city: Lexington
+  monument: Oglethorpe County Confederate Monument
+  type: Monument/Courthouse
+  year: 1916
+-
+  city: Lincolnton
+  monument: Lincoln County Confederate Monument
+  type: Monument
+  year: N/A
+-
+  city: Lumpkin
+  monument: Stewart County Confederate Monument
+  type: Monument/Courthouse
+  year: 1908
+-
+  city: Lyons
+  monument: Toombs County
+  type: County
+  year: N/A
+-
+  city: Lyons
+  monument: Jeff Davis Avenue
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Macon
+  monument: Bibb County Confederate Monument
+  type: Monument
+  year: 1879
+-
+  city: Macon
+  monument: General Lee Road
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Macon
+  monument: Jeff Davis Street
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Madison
+  monument: Morgan County Confederate Monument
+  type: Monument
+  year: 1909
+-
+  city: McDonough
+  monument: Confederate Memorial Drinking Fountain
+  type: Monument/Courthouse
+  year: 1915
+-
+  city: Milledgeville
+  monument: Confederate Memorial Fountain
+  type: Monument
+  year: 1912
+-
+  city: Millen
+  monument: Jenkins County Confederate Monument
+  type: Monument/Courthouse
+  year: 1909
+-
+  city: Monroe
+  monument: Confederate Monument
+  type: Monument/Courthouse
+  year: 1907
+-
+  city: Montezuma
+  monument: Macon County Confederate Monument
+  type: Monument
+  year: 1911
+-
+  city: Monticello
+  monument: Jasper County Confederate Monument
+  type: Monument
+  year: 1910
+-
+  city: Moultrie
+  monument: Colquitt County Confederate Monument
+  type: Monument/Courthouse
+  year: 1909
+-
+  city: Mount Vernon
+  monument: Confederate Monument
+  type: Monument/Courthouse
+  year: 1997
+-
+  city: Muscogee
+  monument: Stonewall Jackson Dam
+  type: Dam
+  year: N/A
+-
+  city: Newnan
+  monument: William Thomas Overby � Confederate  Hero  Monument
+  type: Monument/Courthouse
+  year: 1956
+-
+  city: Newnan
+  monument: General Lee Drive
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Newnan
+  monument: General Longstreet Line
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Newnan
+  monument: Jeb Stuart Drive
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Ocilla
+  monument: Irwin County Confederate Monument
+  type: Monument/Courthouse
+  year: 1911
+-
+  city: Perry
+  monument: Houston County Confederate Monument
+  type: Monument/Courthouse
+  year: 1908
+-
+  city: Quitman
+  monument: Confederate Monument
+  type: Monument/Courthouse
+  year: 1878
+-
+  city: Ringgold
+  monument: Robert E. Lee Drive
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Savannah
+  monument: Colonel Francis S. Bartow Bust
+  type: Monument
+  year: 1902
+-
+  city: Savannah
+  monument: Confederate Memorial
+  type: Monument
+  year: 1875
+-
+  city: Savannah
+  monument: General Lafayette McLaws Bust
+  type: Monument
+  year: 1902
+-
+  city: Savannah
+  monument: Beauregard Street
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Savannah
+  monument: Early Street
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Savannah
+  monument: Hampton Street
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Savannah
+  monument: Jackson Boulevard
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Savannah
+  monument: Johnston Street
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Savannah
+  monument: Lee Boulevard
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Savannah
+  monument: McClaws Street
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Savannah
+  monument: Mosby Street
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Savannah
+  monument: Stuart Street
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Savannah
+  monument: Wheeler Street
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Sharpsburg
+  monument: Bedford Forrest Drive
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Sharpsburg
+  monument: Thomas Overby Drive
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Sparta
+  monument: Hancock County Confederate Monument
+  type: Monument/Courthouse
+  year: 1881
+-
+  city: Springfield
+  monument: Confederate Memorial
+  type: Monument
+  year: 1923
+-
+  city: Statesboro
+  monument: Confederate Monument
+  type: Monument/Courthouse
+  year: 1909
+-
+  city: Stone Mountain
+  monument: Stone Mountain Confederate Memorial Carving
+  type: Monument
+  year: 1923
+-
+  city: Stone Mountain
+  monument: Valor Monument at Memorial Plaza
+  type: Monument
+  year: 1977
+-
+  city: Stone Mountain
+  monument: Jefferson Davis Drive
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Stone Mountain
+  monument: Robert E. Lee Boulevard
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Stone Mountain
+  monument: Stonewall Jackson Drive
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Thomaston
+  monument: At Rest Arms Monument
+  type: Monument/Courthouse
+  year: 1908
+-
+  city: Thomaston
+  monument: Jeff Davis Road
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Thomson
+  monument: Confederate Women Fountain (Women of the Sixties)
+  type: Monument
+  year: 1911
+-
+  city: Thomson
+  monument: McDuffie and Columbia Counties Confederate Monument
+  type: Monument
+  year: 1996
+-
+  city: Tifton
+  monument: Tift County Confederate Memorial
+  type: Monument
+  year: 1910 - 1992
+-
+  city: Toccoa
+  monument: Stephens County
+  type: County
+  year: 1905
+-
+  city: Toccoa
+  monument: Stephens County Confederate Monument
+  type: Monument/Courthouse
+  year: 1922
+-
+  city: Trenton
+  monument: Davis Elementary School
+  type: School
+  year: N/A
+-
+  city: Union Point
+  monument: Confederate Reunion Memorial
+  type: Monument
+  year: 1874
+-
+  city: Union Point
+  monument: Confederate Wayside Home Monument
+  type: Monument
+  year: 1936
+-
+  city: Vienna
+  monument: Dooly County Confederate Monument
+  type: Monument/Courthouse
+  year: 1908
+-
+  city: Warner Robins
+  monument: General Lee Road
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Warrenton
+  monument: Warren County Confederate Monument
+  type: Monument/Courthouse
+  year: 1904
+-
+  city: Washington
+  monument: The Dissolution of the Confederate Government
+  type: Monument
+  year: 1938
+-
+  city: Washington
+  monument: Robert Toombs Avenue
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Waycross
+  monument: Ware County Confederate Monument
+  type: Monument
+  year: 1910
+-
+  city: Waycross
+  monument: Jeb Stuart Drive
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Waycross
+  monument: Stonewall Jackson Place
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Wrightsville
+  monument: Jefferson Davis Highway Marker
+  type: Monument/Courthouse
+  year: N/A
+-
+  city: Multiple Locations
+  monument: Jefferson Davis Highway
+  type: Road/Street/Highway
+  year: N/A

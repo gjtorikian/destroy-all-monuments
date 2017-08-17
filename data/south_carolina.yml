@@ -1,0 +1,561 @@
+---
+-
+  city: Abbeville
+  monument: Abbeville Confederate Monument
+  type: Monument
+  year: 1906
+-
+  city: Abbeville
+  monument: First Secession Meeting Columns
+  type: Monument
+  year: 1927
+-
+  city: Aiken
+  monument: Confederate Memorial
+  type: Monument
+  year: 1901
+-
+  city: Aiken
+  monument: Beauregard Lane
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Anderson
+  monument: Our Confederate Dead
+  type: Monument/Courthouse
+  year: 1901
+-
+  city: Anderson
+  monument: Beauregard Avenue
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Anderson
+  monument: Bonham Court
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Bamberg
+  monument: Bamberg County Confederate Monument
+  type: Monument/Courthouse
+  year: 1911
+-
+  city: Barnwell
+  monument: Confederate Monument
+  type: Monument
+  year: N/A
+-
+  city: Batesburg- Leesville
+  monument: City of Batesburg-Leesville
+  type: Municipality
+  year: N/A
+-
+  city: Beaufort
+  monument: Beauregard Court
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Bennettsville
+  monument: Confederate Monument
+  type: Monument
+  year: 1907
+-
+  city: Bishopville
+  monument: Lee County
+  type: County
+  year: 1902
+-
+  city: Bishopville
+  monument: Monument to the Confederate Dead
+  type: Monument/Courthouse
+  year: 1913
+-
+  city: Bishopville
+  monument: Lee Central High School
+  type: School
+  year: N/A
+-
+  city: Bishopville
+  monument: Lee Central Middle School
+  type: School
+  year: N/A
+-
+  city: Bishopville
+  monument: Lee County Career & Technology Center
+  type: School
+  year: N/A
+-
+  city: Bishopville
+  monument: Lee High School
+  type: School
+  year: N/A
+-
+  city: Bluffton
+  monument: Robert E. Lee Lane
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Bradley
+  monument: City of Bradley
+  type: Municipality
+  year: N/A
+-
+  city: Camden
+  monument: Confederate War Memorial
+  type: Monument
+  year: 1883
+-
+  city: Camden
+  monument: Richard Kirkland Memorial Fountain
+  type: Monument
+  year: 1911
+-
+  city: Charleston
+  monument: Confederate Memorial Day (State observed)
+  type: Holiday (May 10)
+  year: N/A
+-
+  city: Charleston
+  monument: Confederate Defenders of Charleston
+  type: Monument
+  year: 1932
+-
+  city: Charleston
+  monument: Beauregard Street
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Charleston
+  monument: Robert E. Lee Boulevard
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Chester
+  monument: Chester Confederate Monument
+  type: Monument/Courthouse
+  year: 1905
+-
+  city: Clemson
+  monument: Old Stone Church Confederate Memorial
+  type: Monument
+  year: N/A
+-
+  city: Clinton
+  monument: Clinton Confederate Monument
+  type: Monument
+  year: 1910
+-
+  city: Clinton
+  monument: Beauregard Street
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Clinton
+  monument: Stonewall Street
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Columbia
+  monument: Longstreet Theater and Annex at the University of South Carolina
+  type: Building
+  year: 1870
+-
+  city: Columbia
+  monument: Sons of Confederate Veterans Commemorative License Plate
+  type: Commemorative License Plate
+  year: N/A
+-
+  city: Columbia
+  monument: Monument to the South Carolina Women of the Confederacy
+  type: Monument/Gov.Property
+  year: 1912
+-
+  city: Columbia
+  monument: South Carolina Confederate Monument
+  type: Monument/Gov.Property
+  year: 1879
+-
+  city: Columbia
+  monument: Wade Hampton Confederate Monument
+  type: Monument/Gov.Property
+  year: 1906
+-
+  city: Columbia
+  monument: Beauregard Street
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Columbia
+  monument: Bonham Road
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Columbia
+  monument: Bonham Street
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Columbia
+  monument: Confederate Avenue
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Columbia
+  monument: South Bonham Road
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Conway
+  monument: Our Confederate Dead Monument
+  type: Monument
+  year: N/A
+-
+  city: Cowpens
+  monument: Stonewall Drive
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Cross Hill
+  monument: Confederate Monument
+  type: Monument
+  year: 1908
+-
+  city: Darlington
+  monument: Monument to the Confederate Dead
+  type: Monument/Courthouse
+  year: 1880
+-
+  city: Daufuskie Island
+  monument: Beauregard Boulevard
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Early Branch
+  monument: Robert E. Lee Road
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Easley
+  monument: Stonewall Drive
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Edgefield
+  monument: Edgefield Confederate Monument
+  type: Monument/Courthouse
+  year: 1900
+-
+  city: Fort Mill
+  monument: Catawba Indian Monument
+  type: Monument
+  year: 1900
+-
+  city: Fort Mill
+  monument: Defenders of State Sovereignty
+  type: Monument
+  year: 1891
+-
+  city: Fort Mill
+  monument: Faithful Slaves Monument
+  type: Monument
+  year: 1895
+-
+  city: Fort Mill
+  monument: Women of the Confederacy Memorial
+  type: Monument
+  year: 1895
+-
+  city: Fort Mill
+  monument: Confederate Park
+  type: Park
+  year: 1891
+-
+  city: Fort Mill
+  monument: Confederate Street
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Gaffney
+  monument: Gaffney Confederate Monument
+  type: Monument
+  year: 1922
+-
+  city: Greenville
+  monument: Stonewall Lane
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Greenwood
+  monument: Confederate Memorial
+  type: Monument/Courthouse
+  year: 1903
+-
+  city: Greenwood
+  monument: Bonham Court
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Greer
+  monument: Beauregard Court
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Hampton
+  monument: Hampton County
+  type: County
+  year: 1878
+-
+  city: Hartsville
+  monument: Stonewall Street
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Honea Path
+  monument: Beauregard Drive
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Jonesville
+  monument: Jonesville Confederate Monument
+  type: Monument
+  year: 1907
+-
+  city: Kershaw
+  monument: City of Kershaw
+  type: Municipality
+  year: 1888
+-
+  city: Kingstree
+  monument: Confederate Soldier, Williamsburg County
+  type: Monument
+  year: 1910
+-
+  city: Lake City
+  monument: Beauregard Street
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Lancaster
+  monument: Our Confederate Soldiers
+  type: Monument/Courthouse
+  year: 1909
+-
+  city: Lancaster
+  monument: Confederate Avenue
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Laurens
+  monument: Laurens Confederate Monument
+  type: Monument
+  year: 1910
+-
+  city: Lexington
+  monument: Lexington Confederate Monument
+  type: Monument/Courthouse
+  year: 1886
+-
+  city: Manning
+  monument: Confederate Monument
+  type: Monument/Courthouse
+  year: 1914
+-
+  city: Marion
+  monument: To the Dead and Living Confederate Veterans
+  type: Monument
+  year: 1903
+-
+  city: Modoc
+  monument: Beauregard Drive
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Moncks Corner
+  monument: Berkeley County Confederate Monument
+  type: Monument
+  year: 2011
+-
+  city: Mountville
+  monument: Jefferson Davis Road
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Newberry
+  monument: Newberry Confederate Monument
+  type: Monument
+  year: 1880
+-
+  city: North
+  monument: Town of North
+  type: Municipality
+  year: 1891
+-
+  city: Orangeburg
+  monument: Confederate Flag and Monument
+  type: Monument
+  year: 2001
+-
+  city: Orangeburg
+  monument: Confederate Monument
+  type: Monument
+  year: 1893
+-
+  city: Orangeburg
+  monument: Beauregard Street
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Orangeburg
+  monument: Robert E. Lee Street
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Orangeburg
+  monument: Stonewall Jackson Boulevard
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Orangeburg
+  monument: Stonewall Jackson Street Southwest
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Prosperity
+  monument: Confederate Veterans Monument
+  type: Monument
+  year: 1928
+-
+  city: Rock Hill
+  monument: Ebenezer Confederate Monument
+  type: Monument
+  year: 1908
+-
+  city: Rock Hill
+  monument: North Stonewall Street
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Rock Hill
+  monument: South Stonewall Street
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Salem
+  monument: Salem Confederate Monument
+  type: Monument
+  year: 2004
+-
+  city: Saluda
+  monument: Bonham Avenue
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Saluda
+  monument: Bonham Road
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Spartanburg
+  monument: Confederate Soldier
+  type: Monument
+  year: 1910
+-
+  city: St. Matthews
+  monument: "'Lest We Forget'"
+  type: Monument/Courthouse
+  year: 1914
+-
+  city: St. Matthews
+  monument: Stonewall Lane
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Summerville
+  monument: Beauregard Court
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Summerville
+  monument: Stonewall Drive
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Timmonsville
+  monument: Robert E. Lee Avenue
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Timmonsville
+  monument: Stonewall Drive
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Trenton
+  monument: Thomas S. Jackson Road
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Union
+  monument: Union County Confederate Memorial
+  type: Monument/Courthouse
+  year: 1907
+-
+  city: Union
+  monument: Bonham Station Road
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Union
+  monument: General Lee Drive
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Wagener
+  monument: Stonewall Jackson Road
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Walhalla
+  monument: Our Confederate Dead
+  type: Monument
+  year: 1910
+-
+  city: Walterboro
+  monument: Confederate Monument
+  type: Monument/Courthouse
+  year: 1911
+-
+  city: Walterboro
+  monument: Robert E. Lee Drive
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Westminster
+  monument: Westminster Confederate Monument
+  type: Monument
+  year: 1980
+-
+  city: Westminster
+  monument: Stonewall Drive
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Williamston
+  monument: Confederate Monument
+  type: Monument
+  year: 1942
+-
+  city: Winnsboro
+  monument: Confederate Memorial
+  type: Monument
+  year: 1901
+-
+  city: York
+  monument: York County Confederate Monument
+  type: Monument
+  year: 1906
+-
+  city: Multiple Locations
+  monument: Jefferson Davis Highway
+  type: Road/Street/Highway
+  year: N/A

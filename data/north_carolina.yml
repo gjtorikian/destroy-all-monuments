@@ -1,0 +1,702 @@
+---
+-
+  city: Albemarle
+  monument: Confederate Soldiers Monument
+  type: Monument
+  year: 1925
+-
+  city: Asheboro
+  monument: Confederate Soldiers Monument
+  type: Monument/Courthouse
+  year: 1911
+-
+  city: Asheville
+  monument: Monument to 60th Regiment North Carolina Volunteers
+  type: Monument/Courthouse
+  year: 1905
+-
+  city: Bakersville
+  monument: Mitchell County's Confederate Dead
+  type: Monument/Courthouse
+  year: N/A
+-
+  city: Beaufort
+  monument: Confederate Soldiers Monument
+  type: Monument
+  year: 1926
+-
+  city: Burgaw
+  monument: Pender County
+  type: County
+  year: 1875
+-
+  city: Burgaw
+  monument: Confederate Soldiers Monument
+  type: Monument/Courthouse
+  year: 1914
+-
+  city: Burnsville
+  monument: Confederate Soldiers Monument
+  type: Monument/Courthouse
+  year: 2009
+-
+  city: Chapel Hill
+  monument: Silent Sam Confederate Soldiers Monument
+  type: Monument
+  year: 1913
+-
+  city: Charlotte
+  monument: Confederate Soldiers Monument
+  type: Monument
+  year: 1977
+-
+  city: Charlotte
+  monument: Jefferson Davis Plaque
+  type: Monument
+  year: 1960
+-
+  city: Charlotte
+  monument: Last Meetings of the Confederate Cabinet Marker
+  type: Monument
+  year: 1915
+-
+  city: Charlotte
+  monument: 1929 Confederate Reunion Marker
+  type: Monument
+  year: 1929
+-
+  city: Charlotte
+  monument: Jefferson Davis Street
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Clinton
+  monument: Confederate Soldiers Monument
+  type: Monument/Courthouse
+  year: 1916
+-
+  city: Clinton
+  monument: General Lee Lane
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Columbia
+  monument: Confederate Soldiers Monument
+  type: Monument/Courthouse
+  year: 1902
+-
+  city: Concord
+  monument: Stonewall Jackson Youth Development Center
+  type: Jail
+  year: 1909
+-
+  city: Concord
+  monument: Confederate Soldiers Monument
+  type: Monument
+  year: 1892
+-
+  city: Currituck
+  monument: Confederate Soldiers Monument
+  type: Monument/Courthouse
+  year: 1918
+-
+  city: Dallas
+  monument: Gaston County Confederate Soldier Monument
+  type: Monument/Courthouse
+  year: 2003
+-
+  city: Danbury
+  monument: Confederate Soldiers Monument
+  type: Monument/Courthouse
+  year: 1990
+-
+  city: Dobson
+  monument: Confederate Soldiers Monument
+  type: Monument/Courthouse
+  year: 2000
+-
+  city: Dunn
+  monument: General Lee Avenue
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Durham
+  monument: Confederate Soldiers Monument
+  type: Monument/Courthouse
+  year: 1924
+-
+  city: Edenton
+  monument: Confederate Soldiers Monument
+  type: Monument
+  year: 1909
+-
+  city: Elizabeth City
+  monument: Confederate Soldiers Monument
+  type: Monument/Courthouse
+  year: 1911
+-
+  city: Faison
+  monument: Monument to the �Confederate Grays� 20th Regiment North Carolina State
+    Troops
+  type: Monument
+  year: 1932
+-
+  city: Fayetteville
+  monument: Confederate Arsenal
+  type: Monument
+  year: 1928
+-
+  city: Fayetteville
+  monument: Confederate Soldiers Monument
+  type: Monument
+  year: 1902
+-
+  city: Fayetteville
+  monument: General Lee Avenue
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Flat Rock
+  monument: Robert E. Lee Drive
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Fletcher
+  monument: Jefferson Davis Monument
+  type: Monument
+  year: 1931
+-
+  city: Forest City
+  monument: Forest City Confederate Monument
+  type: Monument
+  year: 1932
+-
+  city: Fort Bragg
+  monument: Fort Bragg
+  type: Military Base
+  year: 1918
+-
+  city: Franklin
+  monument: Confederate Soldiers Memorial
+  type: Monument
+  year: 1909
+-
+  city: Gastonia
+  monument: Confederate Soldiers Monument
+  type: Monument/Courthouse
+  year: 1912
+-
+  city: Gatesville
+  monument: Confederate Soldiers Monument
+  type: Monument
+  year: 1915
+-
+  city: Graham
+  monument: Confederate Soldiers Monument
+  type: Monument/Courthouse
+  year: 1914
+-
+  city: Greensboro
+  monument: Army of Tennessee Monument
+  type: Monument
+  year: 1986
+-
+  city: Greensboro
+  monument: Confederate Soldiers Monument
+  type: Monument
+  year: 1985
+-
+  city: Greenville
+  monument: Confederate Soldiers Monument
+  type: Monument/Courthouse
+  year: 1914
+-
+  city: Henderson
+  monument: Vance County
+  type: County
+  year: 1881
+-
+  city: Hendersonville
+  monument: Confederate Soldiers Monument
+  type: Monument/Courthouse
+  year: 1903
+-
+  city: Hertford
+  monument: Confederate Soldiers Monument
+  type: Monument/Courthouse
+  year: 1912
+-
+  city: Holly Springs
+  monument: Confederate Soldiers Monument
+  type: Monument
+  year: 1923
+-
+  city: Hope Mills
+  monument: Jefferson Davis Street
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Jacksonville
+  monument: Confederate Soldiers Monument
+  type: Monument
+  year: 1957
+-
+  city: Kinston
+  monument: General Robert Hoke Monument
+  type: Monument
+  year: 1920
+-
+  city: Kinston
+  monument: Confederate Soldiers Monument
+  type: Monument
+  year: 1924
+-
+  city: Kinston
+  monument: CSS Neuse Confederate Ironclad Gunboat Monument
+  type: Monument
+  year: N/A
+-
+  city: Kinston
+  monument: Robert E. Lee Drive
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Kure Beach
+  monument: Confederate Memorial
+  type: Monument
+  year: 1921
+-
+  city: Kure Beach
+  monument: Confederate Soldiers Monument
+  type: Monument
+  year: 1932
+-
+  city: Laurinburg
+  monument: Confederate Soldiers Monument
+  type: Monument/Courthouse
+  year: 1912
+-
+  city: Lenoir
+  monument: Confederate Soldiers Monument
+  type: Monument/Courthouse
+  year: 1910
+-
+  city: Lexington
+  monument: Confederate Soldiers Monument
+  type: Monument
+  year: 1905
+-
+  city: Lexington
+  monument: Confederate Street
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Lincolnton
+  monument: Confederate Soldiers Memorial Drinking Fountain
+  type: Monument/Courthouse
+  year: 1911
+-
+  city: Louisburg
+  monument: Confederate Memorial Drinking Fountain
+  type: Monument
+  year: 1923
+-
+  city: Louisburg
+  monument: Confederate Soldiers Monument
+  type: Monument
+  year: 1914
+-
+  city: Louisburg
+  monument: First Confederate Flag Marker and Monument
+  type: Monument/Courthouse
+  year: 1923
+-
+  city: Lumberton
+  monument: Confederate Soldiers Monument
+  type: Monument/Courthouse
+  year: 1907
+-
+  city: Marion
+  monument: Veterans Memorial
+  type: Monument/Courthouse
+  year: N/A
+-
+  city: Mebane
+  monument: Beauregard Lane
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Mebane
+  monument: Hill Lane
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Mebane
+  monument: Pickett Lane
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Mebane
+  monument: Stonewall Drive
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Mebane
+  monument: Stuart Lane
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Middletown
+  monument: Confederate Soldiers Monument
+  type: Monument
+  year: 2001
+-
+  city: Mocksville
+  monument: Davie County War Memorial
+  type: Monument
+  year: 1987
+-
+  city: Monroe
+  monument: Confederate Street
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Morgantown
+  monument: Confederate Soldiers Monument
+  type: Monument
+  year: 1918
+-
+  city: Newton
+  monument: Confederate Soldiers Monument
+  type: Monument
+  year: 1907
+-
+  city: Oxford
+  monument: Confederate Soldiers Monument
+  type: Monument
+  year: 1909
+-
+  city: Pittsboro
+  monument: Confederate Soldiers Monument
+  type: Monument
+  year: 1907
+-
+  city: Raeford
+  monument: Hoke County
+  type: County
+  year: 1911
+-
+  city: Raleigh
+  monument: Sons of Confederate Veterans Commemorative License Plate
+  type: Commemorative License Plate
+  year: N/A
+-
+  city: Raleigh
+  monument: Confederate Memorial Day(May 10, not state observed; listed in statutes
+  type: Holiday
+  year: N/A
+-
+  city: Raleigh
+  monument: Robert E. Lee Day (January 19, not state observed; listed in statutes
+  type: Holiday
+  year: N/A
+-
+  city: Raleigh
+  monument: Henry Lawson Wyatt Monument
+  type: Monument/Gov.Property
+  year: 1912
+-
+  city: Raleigh
+  monument: Confederate Women's Monument
+  type: Monument/Gov.Property
+  year: 1914
+-
+  city: Raleigh
+  monument: Samuel A'Court Ashe Monument
+  type: Monument/Gov.Property
+  year: 1940
+-
+  city: Rockingham
+  monument: Confederate Soldiers Monument
+  type: Monument
+  year: 1930
+-
+  city: Rocky Mount
+  monument: Confederate Soldiers Monument
+  type: Monument
+  year: 1917
+-
+  city: Roxboro
+  monument: Confederate Monument
+  type: Monument/Courthouse
+  year: 1931
+-
+  city: Roxboro
+  monument: Confederate Soldiers Monument
+  type: Monument/Courthouse
+  year: 1922
+-
+  city: Rutherfordton
+  monument: Confederate Soldiers Monument
+  type: Monument/Courthouse
+  year: 1910
+-
+  city: Salisbury
+  monument: Confederate Soldiers Monument
+  type: Monument
+  year: 1909
+-
+  city: Salisbury
+  monument: Beauregard Drive
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Salisbury
+  monument: Confederate Avenue
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Salisbury
+  monument: Pickett Avenue
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Salisbury
+  monument: Stonewall Road
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Salisbury
+  monument: Stuart Street
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Sanford
+  monument: Lee County
+  type: County
+  year: 1907
+-
+  city: Sanford
+  monument: Robert E. Lee Drive
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Selma
+  monument: The Last Grand Review
+  type: Monument
+  year: 1990
+-
+  city: Shelby
+  monument: Confederate Soldiers Monument
+  type: Monument/Courthouse
+  year: 1906
+-
+  city: Snow Hill
+  monument: Confederate Soldiers Monument
+  type: Monument
+  year: 1929
+-
+  city: Spencer
+  monument: Beauregard Drive
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Spencer
+  monument: Confederate Avenue
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Spencer
+  monument: Pickett Avenue
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Spencer
+  monument: Stonewall Road
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Spencer
+  monument: Stuart Street
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Spring Lake
+  monument: General Lee Street
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Stonewall
+  monument: Stonewall
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Sylva
+  monument: Confederate Soldiers Monument
+  type: Monument
+  year: 1915
+-
+  city: Tarboro
+  monument: Confederate Soldiers Monument
+  type: Monument
+  year: 1904
+-
+  city: Tarboro
+  monument: Henry Lawson Wyatt Memorial Fountain
+  type: Monument
+  year: 1910
+-
+  city: Taylorsville
+  monument: Civil War Soldiers Monument
+  type: Monument/Courthouse
+  year: 1959
+-
+  city: Thomasville
+  monument: Thomasville and Davidson County Civil War Memorial
+  type: Monument
+  year: 1910
+-
+  city: Trenton
+  monument: Confederate Soldiers Monument
+  type: Monument/Courthouse
+  year: 1960
+-
+  city: Wadesboro
+  monument: Confederate Soldiers Monument
+  type: Monument/Courthouse
+  year: 1906
+-
+  city: Warrenton
+  monument: Confederate Soldiers Monument
+  type: Monument/Courthouse
+  year: 1913
+-
+  city: Watha
+  monument: Robert E. Lee Drive
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Waynesville
+  monument: North Carolina Confederate Veterans Forest
+  type: Forest
+  year: 1956
+-
+  city: Waynesville
+  monument: Confederate Soldiers Memorial
+  type: Monument/Courthouse
+  year: 1940
+-
+  city: Weldon
+  monument: Confederate Soldiers Monument
+  type: Monument
+  year: 1908
+-
+  city: Wilkesboro
+  monument: Confederate Monument
+  type: Monument/Courthouse
+  year: 1998
+-
+  city: Wilmington
+  monument: Confederate Monument
+  type: Monument
+  year: 1932
+-
+  city: Wilmington
+  monument: Confederate Soldiers Monument
+  type: Monument
+  year: 1924
+-
+  city: Wilmington
+  monument: George Davis Statue
+  type: Monument
+  year: 1909
+-
+  city: Wilmington
+  monument: Rose O�Neale Greenhow Monument
+  type: Monument
+  year: N/A
+-
+  city: Wilmington
+  monument: Breckenridge  Drive
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Wilmington
+  monument: Buckner Drive
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Wilmington
+  monument: Early Drive
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Wilmington
+  monument: Jeb Stuart Drive
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Wilmington
+  monument: Johnston Drive
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Wilmington
+  monument: Longstreet Drive
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Wilmington
+  monument: Pemberton Drive
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Wilmington
+  monument: Pettigrew Drive
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Wilmington
+  monument: Robert E. Lee Drive
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Wilmington
+  monument: Stonewall Jackson Drive
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Wilson
+  monument: Memorial Drinking Fountain
+  type: Monument/Courthouse
+  year: 1926
+-
+  city: Windsor
+  monument: Confederate Soldiers Monument
+  type: Monument
+  year: 1896
+-
+  city: Windsor
+  monument: Confederate Street
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Winston- Salem
+  monument: Confederate Soldiers Monument
+  type: Monument/Courthouse
+  year: 1905
+-
+  city: Winton
+  monument: Confederate Soldiers Monument
+  type: Monument/Courthouse
+  year: 1913
+-
+  city: Yanceyville
+  monument: Confederate Soldiers Monument
+  type: Monument
+  year: 1921
+-
+  city: Multiple Locations
+  monument: Old Jefferson Davis Highway
+  type: Road/Street/Highway
+  year: N/A

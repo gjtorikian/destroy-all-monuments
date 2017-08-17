@@ -1,0 +1,657 @@
+---
+-
+  city: Aberdeen
+  monument: Confederate Monument
+  type: Monument
+  year: 1900
+-
+  city: Amory
+  monument: Amory's Tribute to the Heroes of 1861-1865
+  type: Monument
+  year: 1924
+-
+  city: Ashland
+  monument: Benton County
+  type: County
+  year: 1870
+-
+  city: Bay St. Louis
+  monument: Jeff Davis Drive
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Beaumont
+  monument: Jeff Davis Parkway
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Beaumont
+  monument: Robert E. Lee Street
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Biloxi
+  monument: Jefferson Davis Avenue
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Bogue Chitto
+  monument: Beauregard Street
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Bogue Chitto
+  monument: Lee Drive
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Brandon
+  monument: Brandon Confederate Monument
+  type: Monument/Courthouse
+  year: 1907
+-
+  city: Brooklyn
+  monument: Forrest County Agricultural High School
+  type: School
+  year: 1916
+-
+  city: Brooklyn
+  monument: South Forrest Attendance Center
+  type: School
+  year: 1960
+-
+  city: Brooksville
+  monument: Our Heroes Monument
+  type: Monument
+  year: 1911
+-
+  city: Canton
+  monument: Howcott Monument to Loyal Servants of the Harvey Scouts
+  type: Monument
+  year: 1894
+-
+  city: Carrollton
+  monument: Confederate Flag
+  type: Flag/Courthouse
+  year: N/A
+-
+  city: Charleston
+  monument: Confederate Monument
+  type: Monument/Courthouse
+  year: N/A
+-
+  city: Cleveland
+  monument: Confederate Monument
+  type: Monument/Courthouse
+  year: 1908
+-
+  city: Columbus
+  monument: Lowndes County Confederate Monument
+  type: Monument/Courthouse
+  year: 1912
+-
+  city: Corinth
+  monument: Corinth Confederate Memorial
+  type: Monument
+  year: 1992
+-
+  city: Corinth
+  monument: Colonel Rogers Statue
+  type: Monument/Courthouse
+  year: 1912
+-
+  city: Corinth
+  monument: Confederate Street
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: De Kalb
+  monument: Jeff Davis Road
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Duck Hill
+  monument: Confederate Soldiers Monument
+  type: Monument
+  year: 1908
+-
+  city: Duck Hill
+  monument: Jeff Davis Road
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Ellisville
+  monument: Confederate Monument
+  type: Monument/Courthouse
+  year: 1912
+-
+  city: Fayette
+  monument: Confederate Soldier Sculpture
+  type: Monument
+  year: 1904
+-
+  city: Florence
+  monument: Robert E. Lee Drive
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Greenville
+  monument: Confederate Monument
+  type: Monument/Courthouse
+  year: 1909
+-
+  city: Greenwood
+  monument: Confederate Memorial Building
+  type: Building
+  year: N/A
+-
+  city: Greenwood
+  monument: Confederate Monument
+  type: Monument/Courthouse
+  year: 1913
+-
+  city: Greenwood
+  monument: Robert E. Lee Drive
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Grenada
+  monument: Confederate Monument
+  type: Monument
+  year: 1910
+-
+  city: Gulfport
+  monument: Confederate Monument
+  type: Monument/Courthouse
+  year: 1911
+-
+  city: Hattiesburg
+  monument: Jefferson Davis Hall at Pearl River Community College
+  type: Building
+  year: N/A
+-
+  city: Hattiesburg
+  monument: Forrest County
+  type: County
+  year: 1908
+-
+  city: Hattiesburg
+  monument: Jefferson Davis Lake Dam
+  type: Dam
+  year: N/A
+-
+  city: Hattiesburg
+  monument: Forrest County Confederate Memorial
+  type: Monument
+  year: 1910
+-
+  city: Hattiesburg
+  monument: Confederate Memorial
+  type: Monument/Courthouse
+  year: 1910
+-
+  city: Hattiesburg
+  monument: Jefferson Davis Lake
+  type: River/Creek/Lake
+  year: N/A
+-
+  city: Hattiesburg
+  monument: Bedford Forrest Road
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Hattiesburg
+  monument: Robert E. Lee Road
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Hattiesburg
+  monument: North Forrest Elementary School
+  type: School
+  year: N/A
+-
+  city: Hazlehurst
+  monument: Confederate Monument
+  type: Monument/Courthouse
+  year: 1917
+-
+  city: Heidelberg
+  monument: Confederate Statue
+  type: Monument
+  year: 1911
+-
+  city: Hollandale
+  monument: Jeff Davis Road
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Indianola
+  monument: Jefferson Davis Drive
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Indianola
+  monument: Stonewall Drive
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Jackson
+  monument: Sons of Confederate Veterans Commemorative License Plate
+  type: Commemorative License Plate
+  year: N/A
+-
+  city: Jackson
+  monument: Mississippi State Flag
+  type: Flag
+  year: 1894 - 2001
+-
+  city: Jackson
+  monument: Confederate Memorial Day (State offices closed at discretion, last Monday
+    in April)
+  type: Holiday
+  year: N/A
+-
+  city: Jackson
+  monument: Lee's Birthday (State observed, 3rd Monday in January)
+  type: Holiday
+  year: N/A
+-
+  city: Jackson
+  monument: Andrew Jackson Monument
+  type: Monument
+  year: 1972
+-
+  city: Jackson
+  monument: Confederate Dead Monument
+  type: Monument
+  year: 1891
+-
+  city: Jackson
+  monument: Confederate Monument
+  type: Monument/Gov.Property
+  year: 1891
+-
+  city: Jackson
+  monument: Women of the Confederacy Monument
+  type: Monument/Gov.Property
+  year: 1917
+-
+  city: Jackson
+  monument: Davis Magnet School
+  type: School
+  year: N/A
+-
+  city: Jackson
+  monument: Lee Elementary School
+  type: School
+  year: 1922
+-
+  city: Kosciusko
+  monument: Confederate Monument
+  type: Monument/Courthouse
+  year: 1911
+-
+  city: Laurel
+  monument: Confederate Memorial
+  type: Monument/Courthouse
+  year: 1912
+-
+  city: Leakesville
+  monument: Jeff Davis Road
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Lexington
+  monument: Confederate Monument
+  type: Monument/Courthouse
+  year: 1908
+-
+  city: Lexington
+  monument: Robert E. Lee Street
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Liberty
+  monument: Confederate Monument
+  type: Monument
+  year: 1871
+-
+  city: Long Beach
+  monument: Jeff Davis Avenue
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Louisville
+  monument: Confederate Monument
+  type: Monument
+  year: 1921
+-
+  city: Lucedale
+  monument: Robert E. Lee Road
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Macon
+  monument: Confederate Memorial Monument
+  type: Monument/Courthouse
+  year: 1901
+-
+  city: Meridian
+  monument: Confederate Monument
+  type: Monument/Courthouse
+  year: 1912
+-
+  city: Meridian
+  monument: Jeff Davis School Road
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Moss Point
+  monument: Anderson Road
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Moss Point
+  monument: Barron Road
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Moss Point
+  monument: Beauregard Road
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Moss Point
+  monument: Bragg Road
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Moss Point
+  monument: Breckinridge Road
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Moss Point
+  monument: Cleburne Road
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Moss Point
+  monument: Early Road
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Moss Point
+  monument: Ewell Road
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Moss Point
+  monument: Forrest Road
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Moss Point
+  monument: Hood Road
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Moss Point
+  monument: Joseph E. Johnston Road
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Moss Point
+  monument: Kirby Smith Road
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Moss Point
+  monument: Longstreet
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Moss Point
+  monument: Magruder Road
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Moss Point
+  monument: Pemberton Road
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Moss Point
+  monument: Pickett Road
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Moss Point
+  monument: Robert E. Lee Road
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Moss Point
+  monument: Van Dorn
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Natchez
+  monument: Confederate Monument
+  type: Monument
+  year: 1890
+-
+  city: New Albany
+  monument: Robert E. Lee Drive
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Okolona
+  monument: Our Confederate Dead
+  type: Monument
+  year: 1905 - 1951
+-
+  city: Oxford
+  monument: Confederate Monument
+  type: Monument/Courthouse
+  year: 1907
+-
+  city: Oxford
+  monument: Jefferson Davis Drive
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Oxford
+  monument: Jeff Davis Elementary School
+  type: School
+  year: 1959
+-
+  city: Pascagoula
+  monument: Baker Road
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Pascagoula
+  monument: Hardee Road
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Pascagoula
+  monument: Imboden Road
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Pascagoula
+  monument: Jeb Stuart Road
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Pascagoula
+  monument: Mosby Road
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Pascagoula
+  monument: Robertson Road
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Pascagoula
+  monument: Wheeler Road
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Philadelphia
+  monument: Confederate Monument
+  type: Monument/Courthouse
+  year: 1912
+-
+  city: Picayune
+  monument: Jefferson Davis Parkway
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Picayune
+  monument: Longstreet Lane
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Picayune
+  monument: Pemberton Place
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Pontotoc
+  monument: Pontotoc Confederate Monument
+  type: Monument/Courthouse
+  year: 1919
+-
+  city: Port Gibson
+  monument: Claiborne County's Tribute to Her Sons Who Served in the War of 1861-65
+  type: Monument
+  year: 1906
+-
+  city: Prairie
+  monument: Jeff Davis Road
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Prentiss
+  monument: Jefferson Davis County
+  type: County
+  year: 1906
+-
+  city: Quitman
+  monument: Confederate Monument
+  type: Monument/Courthouse
+  year: 1911
+-
+  city: Raymond
+  monument: Confederate Monument
+  type: Monument/Courthouse
+  year: 1908
+-
+  city: Ripley
+  monument: Confederate Monument
+  type: Monument/Courthouse
+  year: 1911
+-
+  city: Senatobia
+  monument: Beauregard Street
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Senatobia
+  monument: Forrest Avenue
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Senatobia
+  monument: Longstreet Lane
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Stonewall
+  monument: City of Stonewall
+  type: Municipality
+  year: N/A
+-
+  city: Sumner
+  monument: Confederate Monument
+  type: Monument/Courthouse
+  year: 1913
+-
+  city: Tupelo
+  monument: Lee County
+  type: County
+  year: 1866
+-
+  city: Tupelo
+  monument: Confederate Monument
+  type: Monument/Courthouse
+  year: 1906
+-
+  city: Tupelo
+  monument: Beauregard Street
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Tupelo
+  monument: Confederate Avenue
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Tupelo
+  monument: Jeb Stuart Street
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Tupelo
+  monument: Robert E. Lee Drive
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: University
+  monument: Confederate Monument
+  type: Monument
+  year: N/A
+-
+  city: Vaiden
+  monument: Vaiden Confederate Monument
+  type: Monument
+  year: 1912
+-
+  city: Waveland
+  monument: Jeff Davis Avenue
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Wesson
+  monument: Beauregard Road
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: West Point
+  monument: Confederate Monument
+  type: Monument
+  year: 1907
+-
+  city: Winona
+  monument: Confederate Memorial Statue
+  type: Monument
+  year: 1909
+-
+  city: Yazoo City
+  monument: Confederate Monument
+  type: Monument
+  year: N/A
+-
+  city: Multiple Locations
+  monument: Jefferson Davis Highway
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Multiple Locations
+  monument: Lee Highway
+  type: Road/Street/Highway
+  year: N/A

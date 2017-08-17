@@ -1,0 +1,86 @@
+---
+-
+  city: Charles Town
+  monument: Beauregard Boulevard
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Charles Town
+  monument: Lee Way
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Charleston
+  monument: Stonewall Jackson Bust
+  type: Monument/Gov.Property
+  year: 1959
+-
+  city: Charleston
+  monument: Stonewall Jackson Statue
+  type: Monument/Gov.Property
+  year: 1910
+-
+  city: Charleston
+  monument: Beauregard Street
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Charleston
+  monument: Jackson Street
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Charleston
+  monument: Lee Street
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Craigsville
+  monument: General Lee Street
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Elkins
+  monument: Robert E. Lee Avenue
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Flatwoods
+  monument: Stonewall Jackson Highway
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Harpers Ferry
+  monument: Hayward Shepherd
+  type: Monument
+  year: 1931
+-
+  city: Hinton
+  monument: Confederate Soldier Monument
+  type: Monument/Courthouse
+  year: 1914
+-
+  city: Lewisburg
+  monument: Confederate Monument
+  type: Monument
+  year: 1906
+-
+  city: Mingo
+  monument: Confederate Soldier Monument
+  type: Monument
+  year: 1913 - 2013
+-
+  city: Parkersburg
+  monument: Confederate Soldier Monument
+  type: Monument
+  year: 1908
+-
+  city: Union
+  monument: Monroe County Confederate Soldier
+  type: Monument
+  year: 1901
+-
+  city: Weston
+  monument: Stonewall Jackson Lake State Park
+  type: Park
+  year: 1990

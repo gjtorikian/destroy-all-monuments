@@ -1,0 +1,401 @@
+---
+-
+  city: Brentwood
+  monument: Jefferson Davis Drive
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Brentwood
+  monument: Robert E. Lee Lane
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Brownsville
+  monument: Confederate Memorial
+  type: Monument/Courthouse
+  year: 1909
+-
+  city: Chapel Hill
+  monument: Forrest High School
+  type: School
+  year: N/A
+-
+  city: Charlotte
+  monument: Confederate Monument
+  type: Monument/Courthouse
+  year: 2001
+-
+  city: Cleveland
+  monument: Confederate Monument
+  type: Monument
+  year: 1911
+-
+  city: Covington
+  monument: Confederate Monument
+  type: Monument/Courthouse
+  year: 1894
+-
+  city: Culleoka
+  monument: General Lee Road
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Dandridge
+  monument: Jeb Stuart Drive
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Dandridge
+  monument: Stonewall Jackson Drive
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Denmark
+  monument: Britton Lane Confederate Monument
+  type: Monument
+  year: 1897
+-
+  city: Dresden
+  monument: Weakley County Confederate Monument
+  type: Monument/Courthouse
+  year: 1915
+-
+  city: Dyersburg
+  monument: Confederate Monument
+  type: Monument/Courthouse
+  year: 1905
+-
+  city: Elizabethton
+  monument: Stonewall Jackson Drive
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Eva
+  monument: Nathan Bedford Forrest State Park
+  type: Park
+  year: 1963
+-
+  city: Eva
+  monument: Jeff Davis Drive
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Forest Hills
+  monument: Robert E. Lee Drive
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Franklin
+  monument: Our Confederate Soldiers
+  type: Monument
+  year: 1899
+-
+  city: Franklin
+  monument: Confederate Memorial Park at Winstead Hill Park
+  type: Park
+  year: N/A
+-
+  city: Franklin
+  monument: General J.B. Hood Drive
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Franklin
+  monument: General Nathan Bedford Forrest Drive
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Franklin
+  monument: Jeb Stuart Drive
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Franklin
+  monument: Jefferson Davis Drive
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Gallatin
+  monument: Confederate Soldiers
+  type: Monument
+  year: 1903
+-
+  city: Gallatin
+  monument: Robert Lee Drive
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Humboldt
+  monument: Confederate Monument
+  type: Monument
+  year: 1900
+-
+  city: Jackson
+  monument: Our Confederate Dead
+  type: Monument/Courthouse
+  year: 1888
+-
+  city: Lafayette
+  monument: Macon County Counfederate Monument
+  type: Monument/Courthouse
+  year: 2001
+-
+  city: Lebanon
+  monument: Confederate Memorial General Hatton Statue
+  type: Monument
+  year: 1912
+-
+  city: Lewisburg
+  monument: Confederate Soldier Monument
+  type: Monument/Courthouse
+  year: 1904
+-
+  city: Manchester
+  monument: Robert E. Lee Drive
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Memphis
+  monument: Captain J. Harvey Mathes, 37th Tennessee C.S.A
+  type: Monument
+  year: N/A
+-
+  city: Memphis
+  monument: Jefferson Davis Monument
+  type: Monument
+  year: 1964
+-
+  city: Memphis
+  monument: Nathan Bedford Forrest Monument
+  type: Monument
+  year: 1904
+-
+  city: Mount Pleasant
+  monument: Confederate Monument
+  type: Monument
+  year: 1907
+-
+  city: Mulberry
+  monument: Confederate Memorial
+  type: Monument
+  year: 1909
+-
+  city: Murfreesboro
+  monument: Forrest Hall at Middle Tennessee State University
+  type: Building
+  year: 1958
+-
+  city: Murfreesboro
+  monument: Confederate Monument
+  type: Monument/Courthouse
+  year: 1901
+-
+  city: Nashville
+  monument: Sons of Confederate Veterans Commemorative License Plate
+  type: Commemorative License Plate
+  year: N/A
+-
+  city: Nashville
+  monument: Confederate Decoration Day (June 3, signed annually by Governor)
+  type: Holiday
+  year: N/A
+-
+  city: Altamont
+  monument: Confederate Memorial
+  type: Monument
+  year: 1896
+-
+  city: Blountville
+  monument: Confederate Memorial
+  type: Monument/Courthouse
+  year: 1928
+-
+  city: Bolivar
+  monument: Monument to the Memory of Fallen Confederate Sons
+  type: Monument/Courthouse
+  year: 1873
+-
+  city: Nashville
+  monument: Nathan Bedford Forrest Day (July 13, signed annually by Governor)
+  type: Holiday
+  year: N/A
+-
+  city: Nashville
+  monument: Confederate Private Monument
+  type: Monument
+  year: 1909
+-
+  city: Nashville
+  monument: Confederate Women
+  type: Monument/Courthouse
+  year: 1926
+-
+  city: Nashville
+  monument: Nathan Bedford Forrest Bust
+  type: Monument/Gov.Property
+  year: 1977
+-
+  city: Nashville
+  monument: Sam Davis Statue
+  type: Monument/Gov.Property
+  year: 1909
+-
+  city: Nashville
+  monument: Beauregard Drive
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Newport
+  monument: Robert E. Lee Drive
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Newport
+  monument: Stonewall Jackson Drive
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Oak Hill
+  monument: Stonewall Jackson Court
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Paris
+  monument: Confederate Monument
+  type: Monument/Courthouse
+  year: 1900
+-
+  city: Parkers Crossroads
+  monument: Freeman's Battery
+  type: Monument
+  year: 2002
+-
+  city: Parkers Crossroads
+  monument: Morton's Battery
+  type: Monument
+  year: 2007
+-
+  city: Pulaski
+  monument: Seventh Kentucky Mounted Infantry Memorial
+  type: Monument
+  year: 1911
+-
+  city: Pulaski
+  monument: "'Rebel Martyr' Sam Davis Statue"
+  type: Monument/Courthouse
+  year: 1906
+-
+  city: Pulaski
+  monument: Sam Davis Avenue
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Pulaski
+  monument: Sam Davis Trail
+  type: Trail
+  year: N/A
+-
+  city: Ridgley
+  monument: Bedford Forrest Drive
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Ripley
+  monument: Jefferson Davis Highway
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Sardis
+  monument: Jeff Davis Lane
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Savannah
+  monument: Confederate Monument
+  type: Monument/Courthouse
+  year: 1995
+-
+  city: Selmer
+  monument: Confederate Memorial
+  type: Monument/Courthouse
+  year: 1994
+-
+  city: Sewanee
+  monument: Kirby-Smith Monument
+  type: Monument
+  year: 1940
+-
+  city: Smithville
+  monument: DeKalb County Confederate Monument
+  type: Monument/Courthouse
+  year: 1996
+-
+  city: Smyrna
+  monument: Jeb Stuart Drive
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Smyrna
+  monument: Lee Lane
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Smyrna
+  monument: Longstreet Drive
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Smyrna
+  monument: Robert E. Lee Lane
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Smyrna
+  monument: Sam Davis Road
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Smyrna
+  monument: Stonewall Drive
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Spencer
+  monument: Confederate Monument
+  type: Monument/Courthouse
+  year: 1988
+-
+  city: Springfield
+  monument: Confederate Monument
+  type: Monument/Courthouse
+  year: 2012
+-
+  city: Trenton
+  monument: Confederate Monument
+  type: Monument/Courthouse
+  year: 1900
+-
+  city: Tullahoma
+  monument: Robert E. Lee Elementary
+  type: School
+  year: 1964
+-
+  city: Union City
+  monument: Confederate Monument
+  type: Monument
+  year: 1909
+-
+  city: Union City
+  monument: Confederate Monument
+  type: Monument/Courthouse
+  year: 1869
+-
+  city: Waynesboro
+  monument: Confederate Monument
+  type: Monument/Courthouse
+  year: 2003
+-
+  city: Multiple Locations
+  monument: Lee Highway
+  type: Road/Street/Highway
+  year: N/A

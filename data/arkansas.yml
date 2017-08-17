@@ -1,0 +1,292 @@
+---
+-
+  city: Arkadelphia
+  monument: Arkadelphia Confederate Monument
+  type: Monument/Courthouse
+  year: 1911
+-
+  city: Batesville
+  monument: Batesville Confederate Monument
+  type: Monument
+  year: 1907
+-
+  city: Benton
+  monument: Confederate Veterans Memorial
+  type: Monument
+  year: N/A
+-
+  city: Bentonville
+  monument: Bentonville Confederate Monument
+  type: Monument
+  year: 1908
+-
+  city: Blytheville
+  monument: Confederate War Memorial
+  type: Monument/Courthouse
+  year: 1934
+-
+  city: Camden
+  monument: Camden Confederate Women Monument
+  type: Monument/Courthouse
+  year: 1915
+-
+  city: Conway
+  monument: Confederate Soldiers Monument
+  type: Monument/Courthouse
+  year: 1925
+-
+  city: Dardanelle
+  monument: Dardanelle Confederate Monument
+  type: Monument
+  year: 1921
+-
+  city: El Dorado
+  monument: El Dorado Confederate Monument
+  type: Monument/Courthouse
+  year: 1909
+-
+  city: El Dorado
+  monument: Robert E. Lee Street
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Forrest City
+  monument: City of Forrest City
+  type: Municipality
+  year: 1870
+-
+  city: Forrest City
+  monument: Confederate Drive
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Forrest City
+  monument: Forrest City High School
+  type: School
+  year: 1914
+-
+  city: Forrest City
+  monument: Forrest City Junior High School
+  type: School
+  year: N/A
+-
+  city: Fort Smith
+  monument: Jefferson Davis Memorial
+  type: Monument
+  year: 1937
+-
+  city: Fort Smith
+  monument: Fort Smith Confederate Monument
+  type: Monument/Courthouse
+  year: 1903
+-
+  city: Harrison
+  monument: Confederate Veterans Memorial
+  type: Monument
+  year: 1986
+-
+  city: Heber Springs
+  monument: Jefferson Davis Road
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Hot Springs
+  monument: Hot Springs Confederate Monument
+  type: Monument
+  year: 1934
+-
+  city: Hughes
+  monument: Jeff Davis Street
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Jacksonport
+  monument: Jackson County Confederate Memorial
+  type: Monument
+  year: 1914
+-
+  city: Jacksonville
+  monument: Jeff Davis Avenue
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Lake Village
+  monument: Lake Village Confederate Monument
+  type: Monument/Courthouse
+  year: 1910
+-
+  city: Lake Village
+  monument: Confederate Street
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Little Rock
+  monument: Confederate Flag Day (Not state observed; listed in statutes)
+  type: |-
+    Holiday
+    (Saturday preceeding Easter)
+  year: N/A
+-
+  city: Little Rock
+  monument: |-
+    Robert E. Lee Day
+    (State observed)
+  type: |-
+    Holiday
+    (3rd Monday in January)
+  year: N/A
+-
+  city: Little Rock
+  monument: Confederate Bench
+  type: Monument
+  year: 1936
+-
+  city: Little Rock
+  monument: Confederate Soldiers Memorial
+  type: Monument
+  year: 1905
+-
+  city: Little Rock
+  monument: General Thomas J. Churchill Memorial
+  type: Monument
+  year: 1928
+-
+  city: Little Rock
+  monument: General William Read Scurry Memorial
+  type: Monument
+  year: 1928
+-
+  city: Little Rock
+  monument: Memorial to Company A Confederate Soldiers
+  type: Monument
+  year: 1911
+-
+  city: Little Rock
+  monument: Southern Soldiers Memorial
+  type: Monument
+  year: N/A
+-
+  city: Little Rock
+  monument: Confederate War Prisoners Memorial
+  type: Monument/Gov.Property
+  year: N/A
+-
+  city: Little Rock
+  monument: Monument to Confederate Soldiers
+  type: Monument/Gov.Property
+  year: 1905
+-
+  city: Little Rock
+  monument: Monument to Confederate Women
+  type: Monument/Gov.Property
+  year: 1913
+-
+  city: Little Rock
+  monument: Beauregard Drive
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Little Rock
+  monument: Claiborne Drive
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Little Rock
+  monument: Longstreet Drive
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Little Rock
+  monument: Pickett Drive
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Lonoke
+  monument: Lonoke Confederate Monument
+  type: Monument/Courthouse
+  year: 1910
+-
+  city: Malvern
+  monument: Robert E. Lee Street
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Marianna
+  monument: Lee County
+  type: County
+  year: 1873
+-
+  city: Marianna
+  monument: General Robert E. Lee Monument
+  type: Monument
+  year: 1913
+-
+  city: Marion
+  monument: Crittenden County Civil War Memorial
+  type: Monument/Courthouse
+  year: 1936
+-
+  city: New Edinburg
+  monument: Confederate Captain Richard Tunball Banks Monument
+  type: Monument
+  year: 1864
+-
+  city: Osceola
+  monument: Confederate Monument
+  type: Monument/Courthouse
+  year: 1934
+-
+  city: Pea Ridge
+  monument: Texas Memorial
+  type: Monument
+  year: 1964
+-
+  city: Pine Bluff
+  monument: Pine Bluff Confederate Monument
+  type: Monument
+  year: 1910
+-
+  city: Pine Bluff
+  monument: Forrest Park Prep Preschool
+  type: School
+  year: N/A
+-
+  city: Prescott
+  monument: Confederate War Memorial
+  type: Monument
+  year: 1964
+-
+  city: Russellville
+  monument: Confederate Mothers Memorial Park
+  type: Park
+  year: N/A
+-
+  city: Searcy
+  monument: Searcy Confederate Monument
+  type: Monument/Courthouse
+  year: 1917
+-
+  city: Smithville
+  monument: Confederate War Memorial
+  type: Monument
+  year: 1996
+-
+  city: Springdale
+  monument: Robert E. Lee Elem. School
+  type: School
+  year: 1951
+-
+  city: Star City
+  monument: Star City Confederate Memorial
+  type: Monument
+  year: 1928
+-
+  city: Van Buren
+  monument: Van Buren Confederate Monument
+  type: Monument/Courthouse
+  year: 1899
+-
+  city: Wilson
+  monument: Jeb Stuart Drive
+  type: Road/Street/Highway
+  year: N/A

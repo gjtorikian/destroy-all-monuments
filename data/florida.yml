@@ -1,0 +1,307 @@
+---
+-
+  city: Bradenton
+  monument: Confederate Monument
+  type: Monument/Courthouse
+  year: 1924
+-
+  city: Brooksville
+  monument: Confederate Soldier
+  type: Monument/Courthouse
+  year: 1916
+-
+  city: Crestview
+  monument: Confederate Park Monument
+  type: Monument
+  year: 1958
+-
+  city: Crestview
+  monument: Confederate Park
+  type: Park
+  year: 1958
+-
+  city: Dade City
+  monument: Pasco County
+  type: County
+  year: 1887
+-
+  city: Daytona Beach
+  monument: Confederate Veterans Monument
+  type: Monument
+  year: 1979
+-
+  city: Defuniak Springs
+  monument: Walton County Flag
+  type: Flag/Courthouse
+  year: 1871
+-
+  city: Defuniak Springs
+  monument: Walton County Confederate Monument
+  type: Monument/Courthouse
+  year: 1871
+-
+  city: East Palatka
+  monument: Robert E. Lee Drive
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Ellenton
+  monument: Judah P. Benjamin Confederate Memoria
+  type: Monument
+  year: 1925
+-
+  city: Fort Myers
+  monument: Lee County
+  type: County
+  year: 1887
+-
+  city: Gainesville
+  monument: Confederate Monument
+  type: Monument
+  year: 1904
+-
+  city: Hilliard
+  monument: General Lee Road
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Hollywood
+  monument: Forrest Street
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Hollywood
+  monument: Lee Street
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Jacksonville
+  monument: Florida Confederate Soldiers Memorial
+  type: Monument
+  year: 1899
+-
+  city: Jacksonville
+  monument: Monument to Women of the Confederacy
+  type: Monument
+  year: 1914
+-
+  city: Jacksonville
+  monument: Yellow Bluff Fort Monument
+  type: Monument
+  year: 1950
+-
+  city: Jacksonville
+  monument: Confederate Park
+  type: Park
+  year: 1907
+-
+  city: Jacksonville
+  monument: Hemming Park
+  type: Park
+  year: 1898
+-
+  city: Jacksonville
+  monument: Confederate Point Road
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Jacksonville
+  monument: Confederate Street
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Jacksonville
+  monument: General Lee Road
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Jacksonville
+  monument: Jeb Stuart Middle School
+  type: School
+  year: N/A
+-
+  city: Jacksonville
+  monument: Jefferson Davis Middle School
+  type: School
+  year: N/A
+-
+  city: Jacksonville
+  monument: Robert E. Lee High School
+  type: School
+  year: 1928
+-
+  city: Jacksonville
+  monument: Stonewall Jackson Elementary School
+  type: School
+  year: N/A
+-
+  city: LaBelle
+  monument: Hendry County
+  type: County
+  year: 1923
+-
+  city: Lakeland
+  monument: Confederate Monument
+  type: Monument
+  year: 1910
+-
+  city: Macclenny
+  monument: Baker County
+  type: County
+  year: 1861
+-
+  city: Macclenny
+  monument: Robert E. Lee Lane
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Madison
+  monument: Confederate Monument
+  type: Monument
+  year: N/A
+-
+  city: Manatee
+  monument: Judah P. Benjamin Confederate Memorial at Gamble Plantation Historic
+    State Park
+  type: Park
+  year: 1925
+-
+  city: Marianna
+  monument: Confederate War Memorial
+  type: Monument
+  year: 1921
+-
+  city: Marianna
+  monument: Confederate Monument
+  type: Monument/Courthouse
+  year: 1881
+-
+  city: Miami
+  monument: Robert E. Lee Park
+  type: Park
+  year: N/A
+-
+  city: Monticello
+  monument: Confederate Monument
+  type: Monument/Courthouse
+  year: 1899
+-
+  city: Ocala
+  monument: Johnny Reb Monument
+  type: Monument/Courthouse
+  year: 1908
+-
+  city: Orlando
+  monument: Confederate Memorial
+  type: Monument
+  year: 1911
+-
+  city: Orlando
+  monument: Stonewall Jackson Road
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Orlando
+  monument: Robert E. Lee Middle School
+  type: School
+  year: 1956
+-
+  city: Orlando
+  monument: Stonewall Jackson Middle School
+  type: School
+  year: 1964
+-
+  city: Palatka
+  monument: Confederate Monument
+  type: Monument/Courthouse
+  year: 1956
+-
+  city: Pensacola
+  monument: Confederate Memorial
+  type: Monument
+  year: 1891
+-
+  city: Pensacola
+  monument: Lee Square
+  type: Park
+  year: 1889
+-
+  city: Perry
+  monument: Confederate Monument
+  type: Monument
+  year: N/A
+-
+  city: Perry
+  monument: North Jeff Davis Avenue
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Port Orange
+  monument: Confederate Oak
+  type: Tree
+  year: N/A
+-
+  city: Quincy
+  monument: Confederate Monument
+  type: Monument/Courthouse
+  year: 1884
+-
+  city: St. Augustine
+  monument: Confederate Monument
+  type: Monument
+  year: 1880
+-
+  city: St. Cloud
+  monument: Confederate Monument
+  type: Monument
+  year: 2006
+-
+  city: St. Cloud
+  monument: Robert Lee Road
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Starke
+  monument: Bradford County
+  type: County
+  year: 1861
+-
+  city: Stuart
+  monument: Southeast General Lee Terrace
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Tallahassee
+  monument: Confederate Memorial Day (Not state observed; listed in statutes)
+  type: Holiday (April 26)
+  year: N/A
+-
+  city: Tallahassee
+  monument: Robert E. Lee Day (Not state observed; listed in statutes)
+  type: Holiday (January 19)
+  year: N/A
+-
+  city: Tampa
+  monument: Confederate Soldiers Monument
+  type: Monument/Courthouse
+  year: 1911
+-
+  city: Tampa
+  monument: Robert E. Lee Road
+  type: Road/Street/Highway
+  year: N/A
+-
+  city: Tampa
+  monument: Lee Elementary School of Technology/World Studies
+  type: School
+  year: 1943
+-
+  city: White Springs
+  monument: Confederate Memorial
+  type: Monument
+  year: 2002
+-
+  city: Zephyrhills
+  monument: Jeff Davis Drive
+  type: Road/Street/Highway
+  year: N/A
